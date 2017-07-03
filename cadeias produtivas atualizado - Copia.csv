@@ -15,7 +15,7 @@ Data;Regional;UC;Comunidade;Nome;Familias1;Apelido;Cadeia Produtiva;Produtos;Tip
 2016-2017;Negro Amazonas;Florest de Maues;Santo Antônio do Mucajá;Delziene Vasconcelos da Silva;1;Deuza;;Farinha;Beneficiado;;1440;Kg;Ago;;;1440;R$ 4,00;5760;;;;;;;;;;;;;
 2016-2017;Negro Amazonas;Florest de Maues;Santo Antônio do Mucajá;Luiz Antonio Ferreira da Silva;1;Nenê;;Farinha;Beneficiado;;600;Kg;Ago;;;600;R$ 4,00;2400;;;;;;;;;;;;;
 2016-2017;Negro Amazonas;Florest de Maues;Santo Antônio do Mucajá;José Telmo Ferreira;1;Tingiri;;Farinha;Beneficiado;;900;Kg;Ago;;650;250;R$ 6,00;1500;;;;;;;;;;;;;
-2016-2017;Negro Amazonas;Florest de Maues;Santo Antônio do Mucajá;José Telmo Ferreira;1;;;Açai;Beneficiado;;250;Kg;Jul;;;250;R$ 3,00;750;;;;;;;;;;;;;
+2016-2017;Negro Amazonas;Florest de Maues;Santo Antônio do Mucajá;José Telmo Ferreira;1;;;Acai;Beneficiado;;250;Kg;Jul;;;250;R$ 3,00;750;;;;;;;;;;;;;
 2016-2017;Negro Amazonas;Florest de Maues;Santo Antônio do Mucajá;José Telmo Ferreira;1;;;Avicultura;In natura;;60;Unidade;Ago;;;;;0;;;;;;;;;;;;;
 2016-2017;Negro Amazonas;Florest de Maues;São João Batista;Pedro Bentes Martins;1;;;Farinha;Beneficiado;;250;Kg;Dez;;;250;R$ 4,00;1000;;;;;;;;;;;;;
 2016-2017;Negro Amazonas;Florest de Maues;São João Batista;José Aloncio Pereira Brandão;1;Peludinho;;Farinha;Beneficiado;;2000;Kg;Dez;;1500;500;R$ 1,60;800;;;;;;;;;;;;;
@@ -47,9 +47,9 @@ Data;Regional;UC;Comunidade;Nome;Familias1;Apelido;Cadeia Produtiva;Produtos;Tip
 2016-2017;Negro Amazonas;Florest de Maues;Monte Sinai do Apocuitaua;José Maria Estral de Lira;1;;;Farinha;Beneficiado;;9000;Kg;Dez;;360;5400;R$ 3,00;16200;;;;;;;;;;;;;
 2016-2017;Negro Amazonas;Florest de Maues;São Sebastião do Pajurá;Francisco Arilson de Souza Mazará;1;Bode;;Farinha;Beneficiado;;3000;Kg;Dez;;;300;R$ 3,00;900;;;;;;;;;;;;;
 2016-2017;Negro Amazonas;RDS Piagaçu-Purus;Vista do Supiá;Geovane Fernandes dos Santos;1;Nego;;Farinha;Beneficiado;;150;Kg;Jul;;150;;;;;;;;;;;;;;;;
-2016-2017;Negro Amazonas;RDS Piagaçu-Purus;Vista do Supiá;Geovane Fernandes dos Santos;1;;;Açai;Beneficiado;;20;Kg;Fev;;;20;R$ 3,00;60;;;;;;;;;;;;;
+2016-2017;Negro Amazonas;RDS Piagaçu-Purus;Vista do Supiá;Geovane Fernandes dos Santos;1;;;Acai;Beneficiado;;20;Kg;Fev;;;20;R$ 3,00;60;;;;;;;;;;;;;
 2016-2017;Negro Amazonas;RDS Piagaçu-Purus;Santana do Supiá;Sidenilson da Silva Rui;1;Sidena;;Farinha;Beneficiado;;200;Kg;Jul;;200;;;0;;;;;;;;;;;;;
-2016-2017;Negro Amazonas;RDS Piagaçu-Purus;Santana do Supiá;Sidenilson da Silva Rui;1;;;Açai;Beneficiado;;100;Kg;Jul;;;100;R$ 3,00;300;;;;;;;;;;;;;
+2016-2017;Negro Amazonas;RDS Piagaçu-Purus;Santana do Supiá;Sidenilson da Silva Rui;1;;;Acai;Beneficiado;;100;Kg;Jul;;;100;R$ 3,00;300;;;;;;;;;;;;;
 2016-2017;Negro Amazonas;RDS Piagaçu-Purus;Beabá de Baixo;Maria José Boulby de Lima;1;Dona Boulby;;Farinha;Beneficiado;;1400;Kg;Jul;;800;600;R$ 2,50;1500;;;;;;;;;;;;;
 2016-2017;Negro Amazonas;RDS Piagaçu-Purus;Beabá de Baixo;Maria José Boulby de Lima;1;;;Castanha;In natura;;4000;Kg;Mai;;;4000;R$ 2,00;8000;;;;;;;;;;;;;
 2016-2017;Negro Amazonas;RDS Piagaçu-Purus;Itapuru;José Melo de Araújo;1;Melo;;Farinha;Beneficiado;;600;Kg;Jul;;400;200;R$ 3,50;700;;;;;;;;;;;;;
@@ -62,18 +62,18 @@ Data;Regional;UC;Comunidade;Nome;Familias1;Apelido;Cadeia Produtiva;Produtos;Tip
 2016-2017;Negro Amazonas;RDS Piagaçu-Purus;Santa Luzia;Renato da Silva Batista;1;;;Farinha;Beneficiado;;1800;Kg;Jul;;300;1500;R$ 3,00;4500;;;;;;;;;;;;;
 2016-2017;Negro Amazonas;RDS Piagaçu-Purus;São João Batista Lago do Uacari;Adriano Kelson Gomes de Almeida;1;;;Castanha;In natura;;25000;Kg;Jul;;;25000;R$ 2,00;50000;;;;;;;;;;;;;
 2016-2017;Negro Amazonas;RDS Piagaçu-Purus;Fortaleza;Adelino de Souza Nicacio;1;Miranda;;Castanha;In natura;;80000;Kg;Jul;;;80000;R$ 2,00;160000;;;;;;;;;;;;;
-2016-2017;Negro Amazonas;RDS Piagaçu-Purus;Fortaleza;Adelino de Souza Nicacio;1;;;Açai;In natura;;300;Unidade;Jul;;;15000;R$ 0,70;10500;;;;;;;;;;;;;
+2016-2017;Negro Amazonas;RDS Piagaçu-Purus;Fortaleza;Adelino de Souza Nicacio;1;;;Acai;In natura;;300;Unidade;Jul;;;15000;R$ 0,70;10500;;;;;;;;;;;;;
 2016-2017;Negro Amazonas;RDS Piagaçu-Purus;N.S. do Livramento;Antonio de Souza;1;;;Pirarucu;In natura;;4300;Kg;Jul;;;4.300;R$ 5,50;23650;;;;;;;;;;;;;
 2016-2017;Negro Amazonas;RDS Piagaçu-Purus;N.S. do Livramento;Antonio de Souza;1;;;Farinha;Beneficiado;;9000;Kg;Jul;;;9.000;R$ 3,00;27000;;;;;;;;;;;;;
-2016-2017;Negro Amazonas;RDS Piagaçu-Purus;N.S. do Livramento;Antonio de Souza;1;;;Açai;Beneficiado;;5000;Kg;Jul;;;5.000;R$ 3,00;15000;;;;;;;;;;;;;
+2016-2017;Negro Amazonas;RDS Piagaçu-Purus;N.S. do Livramento;Antonio de Souza;1;;;Acai;Beneficiado;;5000;Kg;Jul;;;5.000;R$ 3,00;15000;;;;;;;;;;;;;
 2016-2017;Negro Amazonas;RDS Piagaçu-Purus;Divino Espírito Santo;Eteroy Ramos Pinheiro;1;Gente Fina;;Castanha;In natura;;13600;Kg;Jul;;;13.500;R$ 18,00;243000;;;;;;;;;;;;;
 2016-2017;Negro Amazonas;RDS Piagaçu-Purus;Divino Espírito Santo;Eteroy Ramos Pinheiro;1;;;Pirarucu;In natura;;4500;Kg;Jul;;;4.200;R$ 6,00;25200;;;;;;;;;;;;;
-2016-2017;Negro Amazonas;RDS Piagaçu-Purus;Divino Espírito Santo;Eteroy Ramos Pinheiro;1;;;Açai;Beneficiado;;2400;Kg;Jul;;;2.400;R$ 3,00;7200;;;;;;;;;;;;;
+2016-2017;Negro Amazonas;RDS Piagaçu-Purus;Divino Espírito Santo;Eteroy Ramos Pinheiro;1;;;Acai;Beneficiado;;2400;Kg;Jul;;;2.400;R$ 3,00;7200;;;;;;;;;;;;;
 2016-2017;Negro Amazonas;RDS Piagaçu-Purus;S.J.B.L. do Uaçú;Francisca Pinheiro de Almeida;1;Chica do Moreira;;Farinha;Beneficiado;;450;Kg;Jul;;450;;;0;;;;;;;;;;;;;
 2016-2017;Negro Amazonas;RDS Piagaçu-Purus;S.J.B.L. do Uaçú;Francisca Pinheiro de Almeida;1;;;Castanha;In natura;;14800;Kg;Mai;;;14.800;R$ 1,00;14800;;;;;;;;;;;;;
-2016-2017;Negro Amazonas;RDS Piagaçu-Purus;S.J.B.L. do Uaçú;Francisca Pinheiro de Almeida;1;;;Açai;Beneficiado;;155;Kg;Mar;;;155;R$ 3,00;465;;;;;;;;;;;;;
+2016-2017;Negro Amazonas;RDS Piagaçu-Purus;S.J.B.L. do Uaçú;Francisca Pinheiro de Almeida;1;;;Acai;Beneficiado;;155;Kg;Mar;;;155;R$ 3,00;465;;;;;;;;;;;;;
 2016-2017;Negro Amazonas;RDS Piagaçu-Purus;Santa Luzia;Jonas da Silva Batista;1;;;Farinha;Beneficiado;;1800;Kg;Dez;;600;1200;R$ 3,00;3600;;;;;;;;;;;;;
-2016-2017;Negro Amazonas;RDS Piagaçu-Purus;Santa Luzia;Jonas da Silva Batista;1;;;Açai;Beneficiado;;1000;Kg;Jul;;;1000;R$ 0,80;800;;;;;;;;;;;;;
+2016-2017;Negro Amazonas;RDS Piagaçu-Purus;Santa Luzia;Jonas da Silva Batista;1;;;Acai;Beneficiado;;1000;Kg;Jul;;;1000;R$ 0,80;800;;;;;;;;;;;;;
 2016-2017;Negro Amazonas;RDS Piagaçu-Purus;Santo Antonio;Pedro Araujo Gomes;1;;;Farinha;Beneficiado;;300;Kg;Jul;;60;240;R$ 3,00;720;;;;;;;;;;;;;
 2016-2017;Negro Amazonas;RDS Piagaçu-Purus;Itapuru;Raimunda Vieira de Andrade;1;;;Farinha;Beneficiado;;300;Kg;Jul;;100;200;R$ 4,50;900;;;;;;;;;;;;;
 2016-2017;Negro Amazonas;RDS Piagaçu-Purus;S.J.B. das 3 Bocas;Lidiana Marinho de Santana;1;;;Oleos;Beneficiado;;80;Kg;Jul;;;80;R$ 20,00;1600;;;;;;;;;;;;;
@@ -81,24 +81,24 @@ Data;Regional;UC;Comunidade;Nome;Familias1;Apelido;Cadeia Produtiva;Produtos;Tip
 2016-2017;Negro Amazonas;RDS Piagaçu-Purus;S.J.B. das 3 Bocas;Camila Santana Silva;1;Mota;;Farinha;Beneficiado;;2000;Kg;Jul;;500;1.500;R$ 4,00;6000;;;;;;;;;;;;;
 2016-2017;Negro Amazonas;RDS Piagaçu-Purus;S.J.B. das 3 Bocas;Camila Santana Silva;1;;;Oleos;Beneficiado;;45;Kg;Jul;;;45;R$ 20,00;900;;;;;;;;;;;;;
 2016-2017;Negro Amazonas;RDS Piagaçu-Purus;Novo Supiá;Joeliton Fernandes de Amorim;1;Lorão;;Farinha;Beneficiado;;900;Kg;Jul;;450;450;R$ 4,50;2025;;;;;;;;;;;;;
-2016-2017;Negro Amazonas;RDS Piagaçu-Purus;Novo Supiá;Joeliton Fernandes de Amorim;1;;;Açai;Beneficiado;;750;Kg;Jul;;50;700;R$ 5,00;3500;;;;;;;;;;;;;
+2016-2017;Negro Amazonas;RDS Piagaçu-Purus;Novo Supiá;Joeliton Fernandes de Amorim;1;;;Acai;Beneficiado;;750;Kg;Jul;;50;700;R$ 5,00;3500;;;;;;;;;;;;;
 2016-2017;Negro Amazonas;RDS Piagaçu-Purus;Tuiué;Janderson Xavier dos Santos;1;Dunga;;Farinha;Beneficiado;;600;Kg;Jul;;600;;;0;;;;;;;;;;;;;
 2016-2017;Negro Amazonas;RDS Piagaçu-Purus;Novo Supiá;Jones Claudi de Oliveira;1;;;Farinha;Beneficiado;;600;Kg;Jul;;300;300;R$ 3,00;900;;;;;;;;;;;;;
 2016-2017;Negro Amazonas;RDS Piagaçu-Purus;Beabá de Baixo;Edjunho Santana Carvalho;1;;;Castanha;In natura;;6000;Kg;Jul;;;6000;R$ 1,00;6000;;;;;;;;;;;;;
 2016-2017;Negro Amazonas;RDS Piagaçu-Purus;Tuiué;Darli Palmeira de Oliveira;1;;;Farinha;Beneficiado;;600;Kg;Jul;;300;300;R$ 3,00;900;;;;;;;;;;;;;
 2016-2017;Negro Amazonas;RDS Piagaçu-Purus;Novo Juriti;Alexandre Chagas de Lima;1;Nem;;Farinha;Beneficiado;;1200;Kg;Jul;;960;240;R$ 4,00;960;;;;;;;;;;;;;
 2016-2017;Negro Amazonas;RDS Piagaçu-Purus;Tuiué;Janderlane Roberto dos Santos;1; Bigode;;Farinha;Beneficiado;;720;Kg;Jul;;720;;;0;;;;;;;;;;;;;
-2016-2017;Negro Amazonas;RDS Piagaçu-Purus;Tuiué;Renato Santana da Silva;1;;;Açai;Beneficiado;;30;Kg;Abr;;;30;R$ 3,00;90;;;;;;;;;;;;;
+2016-2017;Negro Amazonas;RDS Piagaçu-Purus;Tuiué;Renato Santana da Silva;1;;;Acai;Beneficiado;;30;Kg;Abr;;;30;R$ 3,00;90;;;;;;;;;;;;;
 2016-2017;Negro Amazonas;RDS Piagaçu-Purus;Novo Supiá;Marcos Oliveira dos Santos;1;Marquinho;;Farinha;Beneficiado;;250;Kg;Jul;;250;;;0;;;;;;;;;;;;;
 2016-2017;Negro Amazonas;RDS Piagaçu-Purus;S.P. do Paraná do Macaco;José Rodrigues Macedo;1;;;Farinha;Beneficiado;;1800;Kg;Jul;;450;1350;R$ 3,00;4050;;;;;;;;;;;;;
 2016-2017;Negro Amazonas;RDS Piagaçu-Purus;S.P. do Paraná do Macaco;João Ferreira Marques Neto;1;;;Farinha;Beneficiado;;600;Kg;Jul;;150;450;R$ 3,00;1350;;;;;;;;;;;;;
 2016-2017;Negro Amazonas;RDS Piagaçu-Purus;Redenção;Vanderson Xavier de Araújo;1;Vang;;Farinha;Beneficiado;;150;Kg;Jul;;150;;;0;;;;;;;;;;;;;
-2016-2017;Negro Amazonas;RDS Piagaçu-Purus;Redenção;Vanderson Xavier de Araújo;1;;;Açai;Beneficiado;;160;Kg;Abr;;;160;R$ 3,00;480;;;;;;;;;;;;;
+2016-2017;Negro Amazonas;RDS Piagaçu-Purus;Redenção;Vanderson Xavier de Araújo;1;;;Acai;Beneficiado;;160;Kg;Abr;;;160;R$ 3,00;480;;;;;;;;;;;;;
 2016-2017;Negro Amazonas;RDS Piagaçu-Purus;Beabá de Cima;Aurélio Simas Teixeira Neto;1;Tadinho;;Castanha;In natura;;4000;Kg;Set;;;4000;R$ 1,00;4000;;;;;;;;;;;;;
-2016-2017;Negro Amazonas;RDS Piagaçu-Purus;Beabá de Cima;Aurélio Simas Teixeira Neto;1;;;Açai;Beneficiado;;100;Kg;Abr;;;100;R$ 3,00;300;;;;;;;;;;;;;
+2016-2017;Negro Amazonas;RDS Piagaçu-Purus;Beabá de Cima;Aurélio Simas Teixeira Neto;1;;;Acai;Beneficiado;;100;Kg;Abr;;;100;R$ 3,00;300;;;;;;;;;;;;;
 2016-2017;Negro Amazonas;RDS Piagaçu-Purus;Redenção;Sueli Costa de Lima;1;Sueli;;Farinha;Beneficiado;;1500;Kg;Jul;;1000;500;R$ 4,00;2000;;;;;;;;;;;;;
 2016-2017;Negro Amazonas;RDS Piagaçu-Purus;Redenção;Sueli Costa de Lima;1;;;Castanha;In natura;;2000;Kg;Set;;;2000;R$ 1,00;2000;;;;;;;;;;;;;
-2016-2017;Negro Amazonas;RDS Piagaçu-Purus;Redenção;Sueli Costa de Lima;1;;;Açai;Beneficiado;;100;Kg;Abr;;;100;R$ 3,00;300;;;;;;;;;;;;;
+2016-2017;Negro Amazonas;RDS Piagaçu-Purus;Redenção;Sueli Costa de Lima;1;;;Acai;Beneficiado;;100;Kg;Abr;;;100;R$ 3,00;300;;;;;;;;;;;;;
 2016-2017;Negro Amazonas;RDS Piagaçu-Purus;Campina;Evanir Bastos da Silva;1;Ezinho;;Farinha;Beneficiado;;250;Kg;Jul;;200;;;;;;;;;;;;;;;;
 2016-2017;Negro Amazonas;RDS Piagaçu-Purus;Campina;Evanir Bastos da Silva;1;;;Castanha;In natura;;8000;Kg;Abr;;;8000;R$ 1,00;8000;;;;;;;;;;;;;
 2016-2017;Negro Amazonas;RDS Piagaçu-Purus;Campina;Sebastião Condera Rodrigues;1;Sabá Preto;;Farinha;Beneficiado;;450;Kg;Jul;;450;;;0;;;;;;;;;;;;;
@@ -106,21 +106,21 @@ Data;Regional;UC;Comunidade;Nome;Familias1;Apelido;Cadeia Produtiva;Produtos;Tip
 2016-2017;Negro Amazonas;RDS Piagaçu-Purus;Campina;Sebastião Condera Rodrigues;1;;;Oleos;Beneficiado;;30;Kg;Jun;;;30;R$ 35,00;1050;;;;;;;;;;;;;
 2016-2017;Negro Amazonas;RDS Piagaçu-Purus;Campina;Sebastião Condera Rodrigues;1;;;Madeira;Beneficiado;;10000;Kg;Jul;;;10;R$ 250,00;2500;;;;;;;;;;;;;
 2016-2017;Negro Amazonas;RDS Piagaçu-Purus;Campina;Edinaldo Vieira de Lima;1;Pidi;;Farinha;Beneficiado;;1500;Kg;Jun;;1000;500;R$ 3,50;1750;;;;;;;;;;;;;
-2016-2017;Negro Amazonas;RDS Piagaçu-Purus;Campina;Edinaldo Vieira de Lima;1;;;Açai;Beneficiado;;50;Kg;Mar;;;50;R$ 3,00;150;;;;;;;;;;;;;
+2016-2017;Negro Amazonas;RDS Piagaçu-Purus;Campina;Edinaldo Vieira de Lima;1;;;Acai;Beneficiado;;50;Kg;Mar;;;50;R$ 3,00;150;;;;;;;;;;;;;
 2016-2017;Negro Amazonas;RDS Piagaçu-Purus;Campina;Edinaldo Vieira de Lima;1;;;Castanha;In natura;;12000;Kg;Abr;;;12000;R$ 1,00;12000;;;;;;;;;;;;;
 2016-2017;Negro Amazonas;RDS Piagaçu-Purus;Beaba de Cima;Jacimar Valeriano da Silva;1;;;Castanha;In natura;;6000;Kg;Set;;;6000;R$ 1,00;6000;;;;;;;;;;;;;
 2016-2017;Negro Amazonas;RDS Piagaçu-Purus;Marrecão;Evane Nascimento de Souza;1;;;Farinha;Beneficiado;;500;Kg;Jul;;100;400;R$ 4,00;1600;;;;;;;;;;;;;
 2016-2017;Negro Amazonas;RDS Piagaçu-Purus;Campina;Ozama Tavares Batista;1;;;Farinha;Beneficiado;;150;Kg;Jul;;50;100;R$ 5,00;500;;;;;;;;;;;;;
 2016-2017;Negro Amazonas;RDS Piagaçu-Purus;Campina;Evanir Bastos da Silva;1;;;Castanha;In natura;;300;Kg;;;;300;R$ 1,77;531;;;;;;;;;;;;;
 2016-2017;Negro Amazonas;RDS Piagaçu-Purus;Campina;Evanir Bastos da Silva;1;;;Farinha;Beneficiado;;1000;Kg;;;;1.000;R$ 3,00;3000;;;;;;;;;;;;;
-2016-2017;Negro Amazonas;RDS Piagaçu-Purus;Campina;Evanir Bastos da Silva;1;;;Açai;Beneficiado;;4200;Kg;;;;4.200;R$ 1,30;5460;;;;;;;;;;;;;
+2016-2017;Negro Amazonas;RDS Piagaçu-Purus;Campina;Evanir Bastos da Silva;1;;;Acai;Beneficiado;;4200;Kg;;;;4.200;R$ 1,30;5460;;;;;;;;;;;;;
 2016-2017;Negro Amazonas;RDS Piagaçu-Purus;S.S. do Paraná do Macaco;Raimundo Alonço Monteiro de Lima;1;Alonso;;Farinha;Beneficiado;;1000;Kg;Mai;;650;350;R$ 4,00;1400;;;;;;;;;;;;;
 2016-2017;Negro Amazonas;RDS Piagaçu-Purus;S.S. do Paraná do Macaco;Raimundo Moacir Monteiro de Lima;1;Preto;;Farinha;Beneficiado;;450;Kg;Mar;;450;;;0;;;;;;;;;;;;;
 2016-2017;Negro Amazonas;RDS Piagaçu-Purus;Beaba de Baixo;Tiago Moraes de Souza;1;;;Farinha;Beneficiado;;1800;Kg;Jul;;300;1500;R$ 3,00;4500;;;;;;;;;;;;;
 2016-2017;Negro Amazonas;RDS Piagaçu-Purus;S.F. das 3 Bocas;Antonia Rizângela Lima da Silva;1;Riza;;Farinha;Beneficiado;;200;Kg;Jul;;200;;;0;;;;;;;;;;;;;
 2016-2017;Negro Amazonas;RDS Piagaçu-Purus;S.F. das 3 Bocas;Edilson Santana da Silva;1;;;Madeira;Beneficiado;;120;Unidade;Jul;;;120;R$ 150,00;18000;;;;;;;;;;;;;
 2016-2017;Negro Amazonas;RDS Piagaçu-Purus;N.S. do Livramento;Ruy da Silva Barbosa;1;;;Farinha;Beneficiado;;2500;Kg;Mar;;500;2000;R$ 4,00;8000;;;;;;;;;;;;;
-2016-2017;Negro Amazonas;RDS Piagaçu-Purus;N.S. do Livramento;Ruy da Silva Barbosa;1;;;Açai;Beneficiado;;4000;Kg;Mai;;;4000;R$ 2,50;10000;;;;;;;;;;;;;
+2016-2017;Negro Amazonas;RDS Piagaçu-Purus;N.S. do Livramento;Ruy da Silva Barbosa;1;;;Acai;Beneficiado;;4000;Kg;Mai;;;4000;R$ 2,50;10000;;;;;;;;;;;;;
 2016-2017;Negro Amazonas;RDS Piagaçu-Purus;N.S. do Livramento;Ruy da Silva Barbosa;1;;;Pirarucu;In natura;;18000;Kg;Ago;;;15.000;R$ 5,00;75000;;;;;;;;;;;;;
 2016-2017;Negro Amazonas;RDS Piagaçu-Purus;N.S. do Livramento;Ruy da Silva Barbosa;1;;;Castanha;In natura;;120000;Kg;Set;;;120.000;R$ 0,30;36000;;;;;;;;;;;;;
 2016-2017;Negro Amazonas;RDS Piagaçu-Purus;Cuianã;Valdenor Bastos Seixas;1;Noca;;Pirarucu;In natura;;23450;Kg;Nov;;;23.450;R$ 5,00;117250;;;;;;;;;;;;;
@@ -129,10 +129,10 @@ Data;Regional;UC;Comunidade;Nome;Familias1;Apelido;Cadeia Produtiva;Produtos;Tip
 2016-2017;Negro Amazonas;RDS Piagaçu-Purus;Divino Espírito Santo;Fabio Carvalho Pinheiro;1;Pinheiro;;Pirarucu;In natura;;17000;Kg;Nov;;;17.000;R$ 5,50;93500;;;;;;;;;;;;;
 2016-2017;Negro Amazonas;RDS Piagaçu-Purus;Divino Espírito Santo;Fabio Carvalho Pinheiro;1;Pinheiro;;Farinha;Beneficiado;;3000;Kg;;;;3.000;R$ 4,00;12000;;;;;;;;;;;;;
 2016-2017;Negro Amazonas;RDS Piagaçu-Purus;Divino Espírito Santo;Fabio Carvalho Pinheiro;1;Pinheiro;;Castanha;In natura;;135000;Kg;Set;;;135.000;R$ 1,70;229500;;;;;;;;;;;;;
-2016-2017;Negro Amazonas;RDS Piagaçu-Purus;Divino Espírito Santo;Fabio Carvalho Pinheiro;1;Pinheiro;;Açai;Beneficiado;;20000;Kg;Dez;;;20.000;R$ 0,50;10000;;;;;;;;;;;;;
+2016-2017;Negro Amazonas;RDS Piagaçu-Purus;Divino Espírito Santo;Fabio Carvalho Pinheiro;1;Pinheiro;;Acai;Beneficiado;;20000;Kg;Dez;;;20.000;R$ 0,50;10000;;;;;;;;;;;;;
 2016-2017;Negro Amazonas;RDS Piagaçu-Purus;Paraná do Auaçú;Junior Aires da Silva;1;;;Pirarucu;In natura;;3000;Kg;;;;3.000;R$ 3,00;9000;;;;;;;;;;;;;
 2016-2017;Negro Amazonas;RDS Piagaçu-Purus;Nossa Senhora do Livramento;Antonio de Souza;1;;;Pirarucu;In natura;;17000;Kg;Dez;;;17.000;R$ 5,00;85000;;;;;;;;;;;;;
-2016-2017;Negro Amazonas;RDS Piagaçu-Purus;Nossa Senhora do Livramento;Antonio de Souza;1;;;Açai;Beneficiado;;30000;Kg;;;;30.000;R$ 0,80;24000;;;;;;;;;;;;;
+2016-2017;Negro Amazonas;RDS Piagaçu-Purus;Nossa Senhora do Livramento;Antonio de Souza;1;;;Acai;Beneficiado;;30000;Kg;;;;30.000;R$ 0,80;24000;;;;;;;;;;;;;
 2016-2017;Negro Amazonas;RDS Piagaçu-Purus;Nossa Senhora do Livramento;Antonio de Souza;1;;;Farinha;Beneficiado;;50000;Kg;;;;50.000;R$ 4,16;208000;;;;;;;;;;;;;
 2016-2017;Negro Amazonas;RDS Piagaçu-Purus;Nossa Senhora do Livramento;Antonio de Souza;1;;;Castanha;In natura;;3200;Kg;Set;;;3200;R$ 1,77;5664;;;;;;;;;;;;;
 2016-2017;Negro Amazonas;RDS Piagaçu-Purus;Nova Jerusalém do Auaçu;Gildo Monteiro Ramos;1;;;Pirarucu;In natura;;3000;Kg;Dez;;;3000;R$ 4,50;13500;;;;;;;;;;;;;
@@ -143,15 +143,15 @@ Data;Regional;UC;Comunidade;Nome;Familias1;Apelido;Cadeia Produtiva;Produtos;Tip
 2016-2017;Negro Amazonas;RDS Piagaçu-Purus;São Francisco do Bacuri;Adaide Costa do Carmo;1;;;Farinha;Beneficiado;;1000;Kg;;;;1.000;R$ 4,00;4000;;;;;;;;;;;;;
 2016-2017;Negro Amazonas;RDS Piagaçu-Purus;Beaba de Cima;Josafar Amaral da Silva;1;;;Castanha;In natura;;45000;Kg;Set;;;45.000;R$ 1,77;79650;;;;;;;;;;;;;
 2016-2017;Negro Amazonas;RDS Piagaçu-Purus;Santa Luzia da Boca do Jari ;Renato da Silva Batista;1;;;Farinha;Beneficiado;;30000;Kg;;;;30.000;R$ 4,00;120000;;;;;;;;;;;;;
-2016-2017;Negro Amazonas;RDS Piagaçu-Purus;Santa Luzia da Boca do Jari ;Renato da Silva Batista;1;;;Açai;Beneficiado;;600;Kg;;;;600;R$ 0,83;498;;;;;;;;;;;;;
+2016-2017;Negro Amazonas;RDS Piagaçu-Purus;Santa Luzia da Boca do Jari ;Renato da Silva Batista;1;;;Acai;Beneficiado;;600;Kg;;;;600;R$ 0,83;498;;;;;;;;;;;;;
 2016-2017;Negro Amazonas;RDS Piagaçu-Purus;Santa Luzia da Boca do Jari ;Renato da Silva Batista;1;;;Farinha;Beneficiado;;18000;Kg;;;;18.000;R$ 3,50;63000;;;;;;;;;;;;;
 2016-2017;Negro Amazonas;RDS Piagaçu-Purus;São Lazaro do Parana do Jari;Fernando Alves Magalhães;1;;;Farinha;Beneficiado;;42000;Kg;;;;42.000;R$ 4,00;168000;;;;;;;;;;;;;
-2016-2017;Negro Amazonas;RDS Piagaçu-Purus;São Lazaro do Parana do Jari;Fernando Alves Magalhães;1;;;Açai;Beneficiado;;72000;Kg;;;;72.000;R$ 0,83;59760;;;;;;;;;;;;;
+2016-2017;Negro Amazonas;RDS Piagaçu-Purus;São Lazaro do Parana do Jari;Fernando Alves Magalhães;1;;;Acai;Beneficiado;;72000;Kg;;;;72.000;R$ 0,83;59760;;;;;;;;;;;;;
 2016-2017;Negro Amazonas;RDS Piagaçu-Purus;Nova morada;João Batista Palmeira Oliveira;1;;;Farinha;Beneficiado;;4200;Kg;;;;42.000;R$ 4,00;168000;;;;;;;;;;;;;
 2016-2017;Negro Amazonas;RDS Piagaçu-Purus;Nossa Senhora da Conceição;José Alberto m. Pessoa;1;;;Farinha;Beneficiado;;6000;Kg;;;;6.000;R$ 3,50;21000;;;;;;;;;;;;;
 2016-2017;Negro Amazonas;RDS Piagaçu-Purus;São Sebastião;Raimundo Alonso M de lima;1;;;Farinha;Beneficiado;;32000;Kg;;;;32.000;R$ 3,00;96000;;;;;;;;;;;;;
 2016-2017;Negro Amazonas;RDS Piagaçu-Purus;Surara;Raimundo Teixeira Amanso;1;Dêra;;Castanha;In natura;;67500;Kg;;;;67.500;R$ 2,80;189000;;;;;;;;;;;;;
-2016-2017;Negro Amazonas;RDS Piagaçu-Purus;Surara;Raimundo Teixeira Amanso;1;Dêra;;Açai;Beneficiado;;30000;Kg;;;;30.000;R$ 0,85;25500;;;;;;;;;;;;;
+2016-2017;Negro Amazonas;RDS Piagaçu-Purus;Surara;Raimundo Teixeira Amanso;1;Dêra;;Acai;Beneficiado;;30000;Kg;;;;30.000;R$ 0,85;25500;;;;;;;;;;;;;
 2016-2017;Negro Amazonas;RDS Piagaçu-Purus;Surara;Raimundo Teixeira Amanso;1;Dêra;;Farinha;Beneficiado;;12000;Kg;;;;12.000;R$ 3,00;36000;;;;;;;;;;;;;
 2016-2017;Negro Amazonas;RDS Piagaçu-Purus;Surara;Raimundo Teixeira Amanso;1;Dêra;;Oleos;Beneficiado;;100;Kg;Jun;;;100;R$ 20,00;2000;;;;;;;;;;;;;
 2016-2017;Negro Amazonas;RDS do Rio Negro;Tumbira;Izabel Soares Macedo;1;;;Farinha;Beneficiado;;30;Kg;Jun;;5;25;R$ 4,00;100;;;;;;;;;;;;;
@@ -185,12 +185,12 @@ Data;Regional;UC;Comunidade;Nome;Familias1;Apelido;Cadeia Produtiva;Produtos;Tip
 2016-2017;Negro Amazonas;RDS do Rio Negro;15 de Setembro;Rosa;1;Rosa;;Farinha;Beneficiado;;300;Kg;Jul;;180;120;R$ 4,00;480;;;;;;;;;;;;;
 2016-2017;Negro Amazonas;RDS do Rio Negro;15 de Setembro;Rosa;1;;;Avicultura;In natura;;200;Unidade;Jul;;;150;R$ 25,00;3750;;;;;;;;;;;;;
 2016-2017;Negro Amazonas;RDS do Rio Negro;15 de Setembro;Pedro Filirmino;1;Pedro;;Farinha;Beneficiado;;300;Kg;Jul;;300;;;0;;;;;;;;;;;;;
-2016-2017;Negro Amazonas;RDS do Rio Negro;15 de Setembro;Francisca Conrado dos Santos;1;;;Açai;Beneficiado;;600;Kg;Jul;;200;400;R$ 3,00;1200;;;;;;;;;;;;;
+2016-2017;Negro Amazonas;RDS do Rio Negro;15 de Setembro;Francisca Conrado dos Santos;1;;;Acai;Beneficiado;;600;Kg;Jul;;200;400;R$ 3,00;1200;;;;;;;;;;;;;
 2016-2017;Negro Amazonas;RDS do Rio Negro;15 de Setembro;Francisca Conrado dos Santos;1;;;Farinha;Beneficiado;;180;Kg;Jul;;180;;;0;;;;;;;;;;;;;
 2016-2017;Negro Amazonas;RDS do Rio Negro;15 de Setembro;Isaque Praiano;1;;;Avicultura;In natura;;30;Unidade;Jul;;;;;0;;;;;;;;;;;;;
 2016-2017;Negro Amazonas;RDS do Rio Negro;Terra Santa;Jocilda Coelho Moraes;1;Cilia;;Farinha;Beneficiado;;900;Kg;Jun;;500;400;;0;;;;;;;;;;;;;
 2016-2017;Negro Amazonas;RDS do Rio Negro;Terra Santa;Josimar Coelho Morais;1;Josi;;Farinha;Beneficiado;;240;Kg;Jul;;240;;;0;;;;;;;;;;;;;
-2016-2017;Negro Amazonas;RDS do Rio Negro;Terra Santa;Josimar Coelho Morais;1;;;Açai;Beneficiado;;100;Kg;Jul;;;100;R$ 3,00;300;;;;;;;;;;;;;
+2016-2017;Negro Amazonas;RDS do Rio Negro;Terra Santa;Josimar Coelho Morais;1;;;Acai;Beneficiado;;100;Kg;Jul;;;100;R$ 3,00;300;;;;;;;;;;;;;
 2016-2017;Negro Amazonas;RDS do Rio Negro;Terra Santa;Josimar Coelho Morais;1;;;Avicultura;In natura;;160;Unidade;Jul;;;;;0;;;;;;;;;;;;;
 2016-2017;Negro Amazonas;RDS do Rio Negro;Terra Santa;Josimar Coelho Morais;1;;;Avicultura;In natura;;120;Unidade;Jul;;;;;0;;;;;;;;;;;;;
 2016-2017;Negro Amazonas;RDS do Rio Negro;Terra Santa;Nazaré Carvalho da Silva;1;Nazaré;;Farinha;Beneficiado;;900;Kg;Jul;;420;480;R$ 4,00;1920;;;;;;;;;;;;;
@@ -206,11 +206,11 @@ Data;Regional;UC;Comunidade;Nome;Familias1;Apelido;Cadeia Produtiva;Produtos;Tip
 2016-2017;Negro Amazonas;RDS do Rio Negro;N.S. de Fátima;Flávio Monteiro Gomes;1;;;Farinha;Beneficiado;;300;Kg;Jul;;180;120;R$ 4,00;480;;;;;;;;;;;;;
 2016-2017;Negro Amazonas;RDS do Rio Negro;N.S. de Fátima;Flávio Monteiro Gomes;1;;;Avicultura;In natura;;20;Unidade;;;;;;0;;;;;;;;;;;;;
 2016-2017;Negro Amazonas;RDS do Rio Negro;São Tomé;Pedro Batista da Silva;1;Jacarezinho;;Farinha;Beneficiado;;360;Kg;Jul;;180;180;R$ 4,00;720;;;;;;;;;;;;;
-2016-2017;Negro Amazonas;RDS do Rio Negro;São Tomé;Pedro Batista da Silva;1;;;Açai;Beneficiado;;850;Kg;Jul;;;850;R$ 2,00;1700;;;;;;;;;;;;;
+2016-2017;Negro Amazonas;RDS do Rio Negro;São Tomé;Pedro Batista da Silva;1;;;Acai;Beneficiado;;850;Kg;Jul;;;850;R$ 2,00;1700;;;;;;;;;;;;;
 2016-2017;Negro Amazonas;RDS do Rio Negro;São Tomé;Pedro Batista da Silva;1;;;Avicultura;In natura;;100;Unidade;Jul;;;30;R$ 25,00;750;;;;;;;;;;;;;
 2016-2017;Negro Amazonas;RDS do Rio Negro;Santo Antonio;Almir Moreira Cruz;1;Almir;;Farinha;Beneficiado;;600;Kg;Ago;;300;300;R$ 4,00;1200;;;;;;;;;;;;;
 2016-2017;Negro Amazonas;RDS do Rio Negro;Santo Antonio;Almir Moreira Cruz;1;;;Avicultura;In natura;;15;Unidade;Jul;;;;;0;;;;;;;;;;;;;
-2016-2017;Negro Amazonas;RDS do Rio Negro;Santo Antonio;Regina Neves da Silva;1;Regina;;Açai;Beneficiado;;5000;Kg;Jul;;;5000;R$ 1,00;5000;;;;;;;;;;;;;
+2016-2017;Negro Amazonas;RDS do Rio Negro;Santo Antonio;Regina Neves da Silva;1;Regina;;Acai;Beneficiado;;5000;Kg;Jul;;;5000;R$ 1,00;5000;;;;;;;;;;;;;
 2016-2017;Negro Amazonas;RDS do Rio Negro;Santo Antonio;Regina Neves da Silva;1;;;Farinha;Beneficiado;;180;Kg;;;180;;;0;;;;;;;;;;;;;
 2016-2017;Negro Amazonas;RDS do Rio Negro;Santo Antonio;Regina Neves da Silva;1;;;Castanha;In natura;;5;Muda;;;;;;0;;;;;;;;;;;;;
 2016-2017;Negro Amazonas;RDS do Rio Negro;Santo Antonio;João Gomes Ferreira;1;;;Farinha;Beneficiado;;600;Kg;Jun;;400;200;R$ 3,50;700;;;;;;;;;;;;;
@@ -262,7 +262,7 @@ Data;Regional;UC;Comunidade;Nome;Familias1;Apelido;Cadeia Produtiva;Produtos;Tip
 2016-2017;Negro Amazonas;RDS do Uatuma;Leandro;Alcemira Mendonça Barbosa;1;;;Farinha;Beneficiado;;2000;Kg;Ago;;1000;1000;R$ 4,00;4000;;;;;;;;;;;;;
 2016-2017;Negro Amazonas;RDS do Uatuma;Jacareguara;Otomar Ramos Pinto;1;;;Farinha;Beneficiado;;2900;Kg;Ago;;900;2000;R$ 4,00;8000;;;;;;;;;;;;;
 2016-2017;Negro Amazonas;RDS do Uatuma;Jacareguara;Missilene da Costa Barros;1;;;Farinha;Beneficiado;;750;Kg;Ago;;620;130;R$ 12,00;1560;;;;;;;;;;;;;
-2016-2017;Negro Amazonas;RDS do Canuma;;;;;;Açai;Beneficiado;;800;Kg;Out;;;800;R$ 2,00;1600;;;;;;;;;;;;;
+2016-2017;Negro Amazonas;RDS do Canuma;;;;;;Acai;Beneficiado;;800;Kg;Out;;;800;R$ 2,00;1600;;;;;;;;;;;;;
 2016-2017;Negro Amazonas;RDS do Canuma;;;;;;Cacau;In natura;;100;Kg;Fev;;;;;;;;;;;;;;;;;;
 2016-2017;Negro Amazonas;RDS do Canuma;;;;;;Farinha;Beneficiado;;13035;Kg;Jun;;;13035;R$ 4,00;52140;;;;;;;;;;;;;
 12/03/2017;Negro Amazonas;RDS do Canuma;Vista Alegre;Ilma Barbosa de Souza;;Purui;;Farinha;Beneficiado;;6000;Kg;Jul;Jan;;6000;R$ 4,50;27000;;;;S;N;N;S;N;S;;2015;Colônia de pescadores;N
@@ -289,11 +289,11 @@ Data;Regional;UC;Comunidade;Nome;Familias1;Apelido;Cadeia Produtiva;Produtos;Tip
 ;Madeira;RDS do Juma;São Francisco do Arauá;Edson Fernandes Paes;1;Edson;;Castanha;In natura;FAS ;320;Kg;Jan;Mar;;30;R$ 50,00;1500;;;;;;;;;;;;;
 ;Madeira;RDS do Juma;São Francisco do Arauá;Edson Fernandes Paes;1;Edson;;Oleos;Beneficiado;;80;Kg;Jan;Set;;75;R$ 25,00;1875;;;;;;;;;;;;;
 ;Madeira;RDS do Juma;São Francisco do Arauá;Edson Fernandes Paes;1;Edson;;Farinha;Beneficiado;FAS ;1000;Kg;Jan;Set;;10;R$ 200,00;2000;;;;;;;;;;;;;
-;Madeira;RDS do Juma;São Francisco do Arauá;Edson Fernandes Paes;1;Edson;;Açai;In natura;;1200;Kg;Jan;Set;;18;R$ 60,00;1080;;;;;;;;;;;;;
+;Madeira;RDS do Juma;São Francisco do Arauá;Edson Fernandes Paes;1;Edson;;Acai;In natura;;1200;Kg;Jan;Set;;18;R$ 60,00;1080;;;;;;;;;;;;;
 ;Madeira;RDS do Juma;São Francisco do Arauá;Antonio Rdrigues Paes;1;Antonio Fumaça;;Castanha;In natura;FAS ;660;Kg;Jan;Mar;;60;R$ 50,00;3000;;;;;;;;;;;;;
 ;Madeira;RDS do Juma;São Francisco do Arauá;Antonio Rdrigues Paes;1;Antonio Fumaça;;Oleos;Beneficiado;;100;Kg;Jan;Set;;90;R$ 25,00;2250;;;;;;;;;;;;;
 ;Madeira;RDS do Juma;São Francisco do Arauá;Antonio Rdrigues Paes;1;Antonio Fumaça;;Farinha;Beneficiado;FAS ;1000;Kg;Jan;Set;;10;R$ 200,00;2000;;;;;;;;;;;;;
-;Madeira;RDS do Juma;São Francisco do Arauá;Antonio Rdrigues Paes;1;Antonio Fumaça;;Açai;In natura;;1200;Kg;Jan;Set;;15;R$ 60,00;900;;;;;;;;;;;;;
+;Madeira;RDS do Juma;São Francisco do Arauá;Antonio Rdrigues Paes;1;Antonio Fumaça;;Acai;In natura;;1200;Kg;Jan;Set;;15;R$ 60,00;900;;;;;;;;;;;;;
 27/09/2016;Madeira;RDS do Juma;São Francisco do Arauá;Lucindo Almeida Velente;1;Lucindo;;Farinha;Beneficiado;FAZ/IDAM;750;Kg;Jan;Set;;10;R$ 150,00;1500;97-99157-0977;1926348-1;464.288.282-00;N;S;S;N;S;N;;;;
 ;Madeira;RDS do Juma;São Francisco do Arauá;Lucindo Almeida Velente;1;Lucindo;;Castanha;In natura;FAS ;50;Kg;Jan;Mar;;0;R$ 0,00;0;;;;;;;;;;;;;
 12/10/2016;Madeira;RDS do Juma;São Francisco do Arauá;Raimundo Lima Cabral;1;Nonato;;Farinha;Beneficiado;FAZ/IDAM;750;Kg;Jan;Set;;15;R$ 120,00;1800;;2665864-0;017.396.322-65;N;N;N;N;N;N;;;;
@@ -341,43 +341,43 @@ Data;Regional;UC;Comunidade;Nome;Familias1;Apelido;Cadeia Produtiva;Produtos;Tip
 ;Madeira;RDS do Juma;Capintuba;Raimundo Vieira de Oliveira;1;;;Castanha;In natura;;200;Kg;Jan;Mar;;15;R$ 30,00;450;;;;;;;;;;;;;
 30/11/2016;Madeira;RDS do Juma;Cipotuba;Roberval Bertodo Pereira;1;Bertodo;;Farinha;Beneficiado;FAS ;2500;Kg;Jan;Nov;;25;R$ 180,00;4500;;1860961-9;464.289.092-00;N;S;N;N;S;N;;;;
 ;Madeira;RDS do Juma;Cipotuba;Roberval Bertodo Pereira;1;Bertodo;;Castanha;In natura;FAS ;7000;Kg;Jan;Mar;;580;R$ 50,00;29000;;;;;;;;;;;;;
-;Madeira;RDS do Juma;Cipotuba;Roberval Bertodo Pereira;1;Bertodo;;Açai;In natura;;9100;Kg;Jan;Jul;;620;R$ 25,00;15500;;;;;;;;;;;;;
+;Madeira;RDS do Juma;Cipotuba;Roberval Bertodo Pereira;1;Bertodo;;Acai;In natura;;9100;Kg;Jan;Jul;;620;R$ 25,00;15500;;;;;;;;;;;;;
 01/12/2016;Madeira;RDS do Juma;Cipotuba;Enrique Doney de Oliveira Baina;1;Barca;;Farinha;Beneficiado;FAS ;2000;Kg;Jan;Nov;;30;R$ 170,00;5100;;1747812-0;456.367.962-34;N;S;S;N;N;N;;;;
 ;Madeira;RDS do Juma;Cipotuba;Enrique Doney de Oliveira Baina;1;Barca;;Oleos;Beneficiado;;100;Kg;Jan;Nov;;100;R$ 26,00;2600;;;;;;;;;;;;;
 ;Madeira;RDS do Juma;Cipotuba;Enrique Doney de Oliveira Baina;1;Barca;;Castanha;In natura;;1000;Kg;jan;Mar;;90;R$ 40,00;3600;;;;;;;;;;;;;
-;Madeira;RDS do Juma;Cipotuba;Enrique Doney de Oliveira Baina;1;Barca;;Açai;In natura;;520;Kg;Jan;Jul;;15;R$ 25,00;375;;;;;;;;;;;;;
+;Madeira;RDS do Juma;Cipotuba;Enrique Doney de Oliveira Baina;1;Barca;;Acai;In natura;;520;Kg;Jan;Jul;;15;R$ 25,00;375;;;;;;;;;;;;;
 ;Madeira;RDS do Juma;Cipotuba;Wanderlei Regis Barbosa;1;Nezinho;;Farinha;Beneficiado;FAS ;1500;Kg;Jan;Dez;;25;R$ 170,00;4250;;;;;;;;;;;;;
 ;Madeira;RDS do Juma;Cipotuba;Wanderlei Regis Barbosa;1;Nezinho;;Castanha;In natura;;800;Kg;Jan;Mar;;70;R$ 40,00;2800;;;;;;;;;;;;;
 ;Madeira;RDS do Juma;Cipotuba;Dorival da Silva Pereira;1;Barrigudinho;;Farinha;Beneficiado;;3000;Kg;Jan;Dez;;50;R$ 200,00;10000;;;;;;;;;;;;;
 ;Madeira;RDS do Juma;Cipotuba;Dorival da Silva Pereira;1;Barrigudinho;;Oleos;Beneficiado;;800;Kg;Jan;Dez;;800;R$ 26,00;20800;;;;;;;;;;;;;
 ;Madeira;RDS do Juma;Cipotuba;Dorival da Silva Pereira;1;Barrigudinho;;Castanha;In natura;;15000;Kg;Jan;Mar;;1490;R$ 30,00;44700;;;;;;;;;;;;;
-;Madeira;RDS do Juma;Cipotuba;Dorival da Silva Pereira;1;Barrigudinho;;Açai;In natura;;10400;Kg;Jan;Jul;;760;R$ 20,00;15200;;;;;;;;;;;;;
+;Madeira;RDS do Juma;Cipotuba;Dorival da Silva Pereira;1;Barrigudinho;;Acai;In natura;;10400;Kg;Jan;Jul;;760;R$ 20,00;15200;;;;;;;;;;;;;
 05/12/2016;Madeira;RDS do Juma;Cipotuba;Ivanete Pereira Quadros;1;;;Farinha;Beneficiado;FAS ;1500;Kg;Jan;Dez;;27;R$ 150,00;4050;;2312293-5;881.251.492-87;N;S;S;S;N;N;;;;
 ;Madeira;RDS do Juma;Cipotuba;Ivanete Pereira Quadros;1;;;Oleos;Beneficiado;IDAM;200;Kg;Jan;Dez;;200;R$ 25,00;5000;;;;;;;;;;;;;
 ;Madeira;RDS do Juma;Cipotuba;Ivanete Pereira Quadros;1;;;Castanha;In natura;;1000;Kg;Jan;Mar;;95;R$ 25,00;2375;;;;;;;;;;;;;
-;Madeira;RDS do Juma;Cipotuba;Ivanete Pereira Quadros;1;;;Açai;In natura;;130;Kg;Jan;Jul;;0;R$ 0,00;0;;;;;;;;;;;;;
+;Madeira;RDS do Juma;Cipotuba;Ivanete Pereira Quadros;1;;;Acai;In natura;;130;Kg;Jan;Jul;;0;R$ 0,00;0;;;;;;;;;;;;;
 05/12/2016;Madeira;RDS do Juma;Cipotuba;José Ramos Marinho;1;Calango;;Farinha;Beneficiado;FAS ;1500;Kg;Jan;Nov;;25;R$ 150,00;3750;;2668080-7;010.005.422-62;N;S;N;S;S;N;;;;
 ;Madeira;RDS do Juma;Cipotuba;José Ramos Marinho;1;Calango;;Oleos;Beneficiado;;600;Kg;Jan;Nov;;600;R$ 24,00;14400;;;;;;;;;;;;;
 ;Madeira;RDS do Juma;Cipotuba;José Ramos Marinho;1;Calango;;Castanha;In natura;;500;Kg;Jan;Mar;;40;R$ 40,00;1600;;;;;;;;;;;;;
 05/12/2016;Madeira;RDS do Juma;Cipotuba;Vilson Assunção Colares;1;Bico;;Farinha;Beneficiado;FAS ;2500;Kg;Jan;Dez;;48;R$ 150,00;7200;;3186685-9;050.283.402-18;N;S;N;N;N;N;;;;
 ;Madeira;RDS do Juma;Cipotuba;Vilson Assunção Colares;1;Bico;;Oleos;Beneficiado;;200;Kg;Jan;Dez;;200;R$ 25,00;5000;;;;;;;;;;;;;
 ;Madeira;RDS do Juma;Cipotuba;Vilson Assunção Colares;1;Bico;;Castanha;In natura;;500;Kg;Jan;Mar;;45;R$ 30,00;1350;;;;;;;;;;;;;
-;Madeira;RDS do Juma;Cipotuba;Vilson Assunção Colares;1;Bico;;Açai;In natura;IDAM;416;Kg;Jan;Jul;;26;R$ 30,00;780;;;;;;;;;;;;;
+;Madeira;RDS do Juma;Cipotuba;Vilson Assunção Colares;1;Bico;;Acai;In natura;IDAM;416;Kg;Jan;Jul;;26;R$ 30,00;780;;;;;;;;;;;;;
 05/12/2016;Madeira;RDS do Juma;Cipotuba;Valviano Magalhães da Silva;1;Magalhães;;Farinha;Beneficiado;FAS ;10000;Kg;Jan;Dez;;195;R$ 200,00;39000;;0580320-9;464.288.792-04;N;S;S;S;S;N;;;;
 ;Madeira;RDS do Juma;Cipotuba;Valviano Magalhães da Silva;1;Magalhães;;Castanha;In natura;;5000;Kg;Jan;Mar;;492;R$ 40,00;19680;;;;;;;;;;;;;
-;Madeira;RDS do Juma;Cipotuba;Valviano Magalhães da Silva;1;Magalhães;;Açai;In natura;IDAM;18200;Kg;Jan;Jul;;1390;R$ 30,00;41700;;;;;;;;;;;;;
+;Madeira;RDS do Juma;Cipotuba;Valviano Magalhães da Silva;1;Magalhães;;Acai;In natura;IDAM;18200;Kg;Jan;Jul;;1390;R$ 30,00;41700;;;;;;;;;;;;;
 03/12/2016;Madeira;RDS do Juma;Cipotuba;Francisco Araújo Pereira;1;Araújo;;Farinha;Beneficiado;FAS ;1500;Kg;Jan;Dez;;25;R$ 150,00;3750;;;129.824.742-04;N;S;S;N;S;N;;;;
 ;Madeira;RDS do Juma;Cipotuba;Francisco Araújo Pereira;1;Araújo;;Castanha;In natura;;3000;Kg;Jan;Mar;;280;R$ 40,00;11200;;;;;;;;;;;;;
 02/12/2016;Madeira;RDS do Juma;Cipotuba;João de Deus Araújo;1;;;Farinha;Beneficiado;FAS ;1500;Kg;Jan;Dez;;26;R$ 150,00;3900;92-99433-0675;0630505-9;343.847.072-15;N;S;S;S;N;N;;;;
 ;Madeira;RDS do Juma;Cipotuba;João de Deus Araújo;1;;;Castanha;In natura;IDAM;800;Kg;Jan;Mar;;79;R$ 40,00;3160;;;;;;;;;;;;;
-;Madeira;RDS do Juma;Cipotuba;João de Deus Araújo;1;;;Açai;In natura;;2600;Kg;Jan;Jul;;190;R$ 20,00;3800;;;;;;;;;;;;;
+;Madeira;RDS do Juma;Cipotuba;João de Deus Araújo;1;;;Acai;In natura;;2600;Kg;Jan;Jul;;190;R$ 20,00;3800;;;;;;;;;;;;;
 01/12/2016;Madeira;RDS do Juma;Cipotuba;Rodrigo Colares Pereira;1;;;Farinha;Beneficiado;;2500;Kg;Jan;Dez;;40;R$ 150,00;6000;;3256279-9;049.165.292-51;N;N;N;S;N;N;;;;
-;Madeira;RDS do Juma;Cipotuba;Rodrigo Colares Pereira;1;;;Açai;In natura;;2600;Kg;Jan;Jul;;170;R$ 20,00;3400;;;;;;;;;;;;;
+;Madeira;RDS do Juma;Cipotuba;Rodrigo Colares Pereira;1;;;Acai;In natura;;2600;Kg;Jan;Jul;;170;R$ 20,00;3400;;;;;;;;;;;;;
 ;Madeira;RDS do Juma;Cipotuba;Rodrigo Colares Pereira;1;;;Castanha;In natura;;1000;Kg;Jan;Mar;;85;R$ 40,00;3400;;;;;;;;;;;;;
 05/12/2016;Madeira;RDS do Juma;Cipotuba;Roberval dos Santos Cardoso;1;Rubi;;Farinha;Beneficiado;FAS ;10000;Kg;Jan;Dez;;196;R$ 170,00;33320;;1430766-9;628.389.892-00;N;S;N;N;N;N;;;;
 ;Madeira;RDS do Juma;Cipotuba;Roberval dos Santos Cardoso;1;Rubi;;Castanha;In natura;;2200;Kg;Jan;Mar;;216;R$ 40,00;8640;;;;;;;;;;;;;
 ;Madeira;RDS do Juma;Cipotuba;Roberval dos Santos Cardoso;1;Rubi;;Oleos;Beneficiado;;150;Kg;Jan;Dez;;148;R$ 25,00;3700;;;;;;;;;;;;;
-;Madeira;RDS do Juma;Cipotuba;Roberval dos Santos Cardoso;1;Rubi;;Açai;In natura;IDAM;2600;Kg;Jan;Jul;;190;R$ 20,00;3800;;;;;;;;;;;;;
+;Madeira;RDS do Juma;Cipotuba;Roberval dos Santos Cardoso;1;Rubi;;Acai;In natura;IDAM;2600;Kg;Jan;Jul;;190;R$ 20,00;3800;;;;;;;;;;;;;
 ;Madeira;RDS do Juma;Flexal;Maria de Nazaré de Oliveira;1;Nazaré;;Farinha;Beneficiado;;1000;Kg;Jan;Nov;;0;R$ 0,00;0;;;;;;;;;;;;;
 28/09/2016;Madeira;RDS do Juma;Flexal;José Aderbal do Oliveira Quadro;1;Aderbal;;Farinha;Beneficiado;;1000;Kg;Jan;Set;;10;R$ 100,00;1000;;;;N;S;S;N;S;S;Cacau;2012;AFEAM/CEPLAC;Regular
 ;Madeira;RDS do Juma;Flexal;José Aderbal do Oliveira Quadro;1;Aderbal;;Castanha;In natura;;280;Kg;Jan;Mar;;25;R$ 40,00;1000;;;;;;;;;;;;;
@@ -388,7 +388,7 @@ Data;Regional;UC;Comunidade;Nome;Familias1;Apelido;Cadeia Produtiva;Produtos;Tip
 19/10/2016;Madeira;RDS do Juma;Flexal;Valdecy Oliviera Quadro;1;;;Farinha;Beneficiado;;250;Kg;Jan;Set;;4;R$ 100,00;400;92-99179-3560;1363780-3;959.482.792-00;N;S;S;N;N;S;Roçadeira;2012;AFEAM/IDAM;Irregular
 ;Madeira;RDS do Juma;Flexal;Valdecy Oliviera Quadro;1;;;Castanha;In natura;;100;Kg;Jan;Mar;;10;R$ 40,00;400;;;;;;;;;;;;;
 ;Madeira;RDS do Juma;Flexal;Valdecy Oliviera Quadro;1;;;Oleos;Beneficiado;;100;Kg;Jan;Set;;100;R$ 25,00;2500;;;;;;;;;;;;;
-;Madeira;RDS do Juma;Flexal;Valdecy Oliviera Quadro;1;;;Açai;Beneficiado;;1500;Kg;Jan;Jul;;1400;R$ 3,00;4200;;;;;;;;;;;;;
+;Madeira;RDS do Juma;Flexal;Valdecy Oliviera Quadro;1;;;Acai;Beneficiado;;1500;Kg;Jan;Jul;;1400;R$ 3,00;4200;;;;;;;;;;;;;
 06/11/2016;Madeira;RDS do Juma;Flexal;Manoel Walmer de Carvalho;1;Manel;;Farinha;Beneficiado;;1000;Kg;Jan;Set;;10;R$ 100,00;1000;;1612821-4;636.052.872-04;N;S;S;N;N;S;Roça;2014;AFEAM/IDAM;Irregular
 ;Madeira;RDS do Juma;Flexal;Manoel Walmer de Carvalho;1;Manel;;Castanha;In natura;;300;Kg;Jan;Mar;;25;R$ 15,00;375;;;;;;;;;;;;;
 28/11/2016;Madeira;RDS do Juma;Cacaia;Antonio dos Santos Correa Paes;1;Corta;;Farinha;Beneficiado;FAS ;1500;Kg;Jan;Set;;20;R$ 180,00;3600;97-99143-7104;2447216-6;010.279.882-61;N;S;N;N;S;N;;;;
@@ -409,29 +409,29 @@ Data;Regional;UC;Comunidade;Nome;Familias1;Apelido;Cadeia Produtiva;Produtos;Tip
 08/12/2016;Madeira;RDS do Amapa;Santa Maria;Manuel Carlos Barreto Palheta;1;Manuel;;Farinha;Beneficiado;FAS ;1500;Kg;jan;Dez;;20;R$ 130,00;2600;Não;Não;919 386 272-53;S;N;S;N;N;N;Não;Não;Não;Regular
 08/12/2016;Madeira;RDS do Amapa;Santa Maria;Oliezio Barreto Palheta;1;Gabiru;;Farinha;Beneficiado;FAS ;750;Kg;Jan;Dez;;12;R$ 130,00;1560;Não;2335981-1;978 944 962-72;S;N;N;N;N;N;Não;Não;Não;Regular
 08/12/2016;Madeira;RDS do Amapa;Santa Maria;Ozebio Barreto Palheta;1;Dunuca;;Farinha;Beneficiado;FAS ;5000;Kg;jan;Dez;;85;R$ 130,00;11050;Não;1874935-6;Não;S;N;N;N;N;N;Não;Não;Não;Regular
-08/12/2016;Madeira;RDS do Amapa;Santa Maria;Ozebio Barreto Palheta;1;Dunuca;;Açai;In natura;FAS ;260;Kg;jan;jul;;20;R$ 15,00;300;Não;;Não;S;N;N;N;N;N;Não;Não;Não;Regular
+08/12/2016;Madeira;RDS do Amapa;Santa Maria;Ozebio Barreto Palheta;1;Dunuca;;Acai;In natura;FAS ;260;Kg;jan;jul;;20;R$ 15,00;300;Não;;Não;S;N;N;N;N;N;Não;Não;Não;Regular
 08/12/2016;Madeira;RDS do Amapa;Santa Maria;Ozebio Barreto Palheta;1;Dunuca;;Castanha;In natura;FAS ;300;Kg;jan;abr;;30;R$ 20,00;600;Não;;Não;S;N;N;N;N;N;Não;Não;Não;Regular
 08/12/2016;Madeira;RDS do Amapa;Santa Maria;Zaquel Paz Campos;1;zaquel;;Farinha;Beneficiado;FAS ;1250;Kg;jan;Dez;;22;R$ 130,00;2860;Não;3090142;038 482 232 01;S;N;N;N;N;N;Não;Não;Não;Regular
 08/12/2016;Madeira;RDS do Amapa;Santa Maria;Zaquel Paz Campos;1;zaquel;;Castanha;In natura;FAS ;200;Kg;jan;Abr;;18;R$ 25,00;450;Não;;;S;N;N;N;N;N;Não;Não;Não;Regular
 08/12/2016;Madeira;RDS do Amapa;Santa Maria;Antôniop Carvalho de Araújo;1;Antônio;;Farinha;Beneficiado;FAS ;2000;Kg;jan;Dez;;35;R$ 130,00;4550;Não;2661783-8;018 895 282-93;S;S;N;N;N;N;Não;Não;Não;Regular
-08/12/2016;Madeira;RDS do Amapa;Santa Maria;Antôniop Carvalho de Araújo;1;Antônio;;Açai;In natura;FAS ;1170;Kg;jan;Jun;;90;R$ 20,00;1800;Não;;;S;S;N;N;N;N;Não;Não;Não;Regular
+08/12/2016;Madeira;RDS do Amapa;Santa Maria;Antôniop Carvalho de Araújo;1;Antônio;;Acai;In natura;FAS ;1170;Kg;jan;Jun;;90;R$ 20,00;1800;Não;;;S;S;N;N;N;N;Não;Não;Não;Regular
 08/12/2016;Madeira;RDS do Amapa;Santa Maria;Antôniop Carvalho de Araújo;1;Antônio;;Castanha;In natura;FAS ;350;Kg;jan;Abr;;35;R$ 25,00;875;Não;;;S;S;N;N;N;N;Não;Não;Não;Regular
 08/12/2016;Madeira;RDS do Amapa;Santa Maria;Pulo de Souza Hipy;1;Paulo;;Farinha;Beneficiado;FAS ;1750;Kg;Jan;Dez;;35;R$ 130,00;4550;Não;1541582-1;680 038 972-20;S;S;S;N;N;N;Não;Não;Não;Regular
 08/12/2016;Madeira;RDS do Amapa;Santa Maria;Pulo de Souza Hipy;1;Paulo;;Castanha;In natura;FAS ;300;Kg;Jan;Abr;;30;R$ 30,00;900;Não;1541582-2;681 038 972-20;S;S;S;N;N;N;Não;Não;Não;Regular
-08/12/2016;Madeira;RDS do Amapa;Santa Maria;Pulo de Souza Hipy;1;Paulo;;Açai;In natura;FAS ;520;Kg;Jan;Jun;;40;R$ 22,00;880;Não;1541582-3;682 038 972-20;S;S;S;N;N;N;Não;Não;Não;Regular
+08/12/2016;Madeira;RDS do Amapa;Santa Maria;Pulo de Souza Hipy;1;Paulo;;Acai;In natura;FAS ;520;Kg;Jan;Jun;;40;R$ 22,00;880;Não;1541582-3;682 038 972-20;S;S;S;N;N;N;Não;Não;Não;Regular
 18/09/2016;Madeira;RDS do Amapa;Boa Esperança;Vanessa Batista Cavalcante;1;Vanessinha;;Farinha;Beneficiado;FAS ;2250;Kg;Jan;set;;40;R$ 140,00;5600;97991743102;2661936-8;019 186 622-90;S;S;S;N;N;N;Não;Não;Não;Regular
-19/09/2016;Madeira;RDS do Amapa;Boa Esperança;Vanessa Batista Cavalcante;1;Vanessinha;;Açai;In natura;FAS ;2210;Kg;Mai;jul;;150;R$ 19,00;2850;97991743102;2661936-9;20 186 622-90;S;S;S;N;N;N;Não;Não;Não;Regular
+19/09/2016;Madeira;RDS do Amapa;Boa Esperança;Vanessa Batista Cavalcante;1;Vanessinha;;Acai;In natura;FAS ;2210;Kg;Mai;jul;;150;R$ 19,00;2850;97991743102;2661936-9;20 186 622-90;S;S;S;N;N;N;Não;Não;Não;Regular
 20/09/2016;Madeira;RDS do Amapa;Boa Esperança;Vanessa Batista Cavalcante;1;Vanessinha;;Castanha;In natura;FAS ;180;Kg;Jan;Abr;;17;R$ 40,00;680;97991743102;2661936-10;21 186 622-90;S;S;S;N;N;N;Não;Não;Não;Regular
 18/09/2016;Madeira;RDS do Amapa;Boa Esperança;Izael Claro de Carvalho;1;Izael;;Farinha;Beneficiado;FAS ;1500;Kg;Jan;Set;;25;R$ 120,00;3000;97991367586;1246591-1;618 719 232 04;S;S;S;N;S;N;Não;Não;Não;Regular
 18/09/2016;Madeira;RDS do Amapa;Boa Esperança;Luci Cleide Claro de Carvalho;1;Cleide;;Farinha;Beneficiado;FAS ;2250;Kg;jan;Set;;40;R$ 120,00;4800;Não;Não;Não;S;S;N;N;N;N;Não;Não;Não;Regular
 18/09/2016;Madeira;RDS do Amapa;Boa Esperança;Raimundo dos Santos Neves;1;Paulo;;Farinha;Beneficiado;FAS ;4000;Kg;jan;set;;75;R$ 120,00;9000;Não;2226158-3;884 858 352-68;S;S;S;S;S;N;Não;Não;Não;Regular
-18/09/2016;Madeira;RDS do Amapa;Boa Esperança;Raimundo dos Santos Neves;1;Paulo;;Açai;In natura;FAS ;910;Kg;jan;jul;;50;R$ 19,00;950;Não;2226158-4;885 858 352-68;S;S;S;S;S;N;Não;Não;Não;Regular
+18/09/2016;Madeira;RDS do Amapa;Boa Esperança;Raimundo dos Santos Neves;1;Paulo;;Acai;In natura;FAS ;910;Kg;jan;jul;;50;R$ 19,00;950;Não;2226158-4;885 858 352-68;S;S;S;S;S;N;Não;Não;Não;Regular
 18/09/2016;Madeira;RDS do Amapa;Boa Esperança;José Salves pinheiro da Silva;1;Piola;;Farinha;Beneficiado;FAS ;3000;Kg;jan;set;;55;R$ 120,00;6600;97991525588;0816651-0;270 716 422 49;S;S;S;N;S;N;Não;Não;Não;Regular
-19/09/2016;Madeira;RDS do Amapa;Boa Esperança;José Salves pinheiro da Silva;1;;;Açai;In natura;FAS ;1300;Kg;Mai;Jul;;80;R$ 19,00;1520;97991525588;0816651-1;271 716 422 49;S;S;S;N;S;N;Não;Não;Não;Regular
+19/09/2016;Madeira;RDS do Amapa;Boa Esperança;José Salves pinheiro da Silva;1;;;Acai;In natura;FAS ;1300;Kg;Mai;Jul;;80;R$ 19,00;1520;97991525588;0816651-1;271 716 422 49;S;S;S;N;S;N;Não;Não;Não;Regular
 18/09/2016;Madeira;RDS do Amapa;Boa Esperança;José Roberto Arcanjo da Silva;1;Roberto;;Farinha;Beneficiado;FAS ;1750;Kg;jan;set;;30;R$ 120,00;3600;Não;2910184-0;029 646032-00;S;S;N;N;N;N;não;não;não;Regular
-18/09/2016;Madeira;RDS do Amapa;Boa Esperança;José Roberto Arcanjo da Silva;1;Roberto;;Açai;In natura;FAS ;585;Kg;Mai;jul;;35;R$ 19,00;665;Não;2910184-1;30 646032-00;S;S;N;N;N;N;não;não;não;Regular
+18/09/2016;Madeira;RDS do Amapa;Boa Esperança;José Roberto Arcanjo da Silva;1;Roberto;;Acai;In natura;FAS ;585;Kg;Mai;jul;;35;R$ 19,00;665;Não;2910184-1;30 646032-00;S;S;N;N;N;N;não;não;não;Regular
 18/09/2016;Madeira;RDS do Amapa;Boa Esperança;Sidvan Costa Ribeiro;1;Padeiro;;Farinha;Beneficiado;FAS ;2250;Kg;jan;set;;40;R$ 120,00;4800;Não;2062616-9;861 005 482-91;Ass.Comunitaria;Ass.Mãe;Carteira de Agricultor;Carteira de pescador;DAP;Proj.Financiado;Produto Financiado;Ano;Instituição;Situação Atual
-19/09/2016;Madeira;RDS do Amapa;Boa Esperança;Sidvan Costa Ribeiro;1;Padeiro;;Açai;In natura;FAS ;650;Kg;Abr;jul;;40;R$ 19,00;760;Não;2062616-10;862 005 482-91;S;S;S;N;N;N;Não;Não;Não;Regular
+19/09/2016;Madeira;RDS do Amapa;Boa Esperança;Sidvan Costa Ribeiro;1;Padeiro;;Acai;In natura;FAS ;650;Kg;Abr;jul;;40;R$ 19,00;760;Não;2062616-10;862 005 482-91;S;S;S;N;N;N;Não;Não;Não;Regular
 18/09/2016;Madeira;RDS do Amapa;Boa Esperança;Maria das Dores Claro de Carvalho;1;Dora;;Farinha;Beneficiado;FAS ;2250;Kg;jan;set;;40;R$ 120,00;4800;Não;2180687-0;012 356 272-41;S;S;S;N;N;N;Não;Não;Não;Regular
 18/09/2016;Madeira;RDS do Amapa;Boa Esperança;João Bosco Correa de Carvalho;1;Bosquinho;;Farinha;Beneficiado;FAS ;1500;Kg;Jan;Set;;25;R$ 120,00;3000;Não;Não;Não;S;S;N;N;N;N;Não;Não;Não;Regular
 18/09/2016;Madeira;RDS do Amapa;Boa Esperança;José Alicio Araújo de Assunção;1;Alicio;;Farinha;Beneficiado;FAS ;1500;Kg;jan;set;;25;R$ 120,00;3000;Não;2033651-1;840 961 872-91;S;S;S;N;N;N;Não;Não;Não;Regular
@@ -439,66 +439,66 @@ Data;Regional;UC;Comunidade;Nome;Familias1;Apelido;Cadeia Produtiva;Produtos;Tip
 18/09/2016;Madeira;RDS do Amapa;Boa Esperança;Nilson Correa de Carvalho;1;Nilson;;Farinha;Beneficiado;FAS ;750;Kg;jan;set;;14;R$ 120,00;1680;Não;Não;037 258 582-11;S;S;N;N;N;N;Não;Não;Não;Regular
 18/09/2016;Madeira;RDS do Amapa;Boa Esperança;Raimundo de Araújo Moraes;1;Priela;;Farinha;Beneficiado;FAS ;1500;Kg;jan;set;;25;R$ 120,00;3000;Não;11366955-0;Não;S;S;S;N;N;N;Não;Não;Não;Regular
 18/09/2016;Madeira;RDS do Amapa;Boa Esperança;Alessandro Costa Bezerra;1;Preto;;Farinha;Beneficiado;FAS ;1350;Kg;jan;set;;27;R$ 120,00;3240;Não;2181229-3;970 132 502-87;S;S;N;N;S;N;Não;Não;Não;Regular
-18/09/2016;Madeira;RDS do Amapa;Boa Esperança;Vanderley Araújo de Moraes ;1;Vader;;Açai;In natura;Não;1300;Kg;Mai;jul;;80;R$ 19,00;1520;Não;1246598-4;587 789 692-04;S;S;S;N;S;N;Não;Não;Não;Regular
+18/09/2016;Madeira;RDS do Amapa;Boa Esperança;Vanderley Araújo de Moraes ;1;Vader;;Acai;In natura;Não;1300;Kg;Mai;jul;;80;R$ 19,00;1520;Não;1246598-4;587 789 692-04;S;S;S;N;S;N;Não;Não;Não;Regular
 18/09/2016;Madeira;RDS do Amapa;Boa Esperança;Vanderley Araújo de Moraes ;1;Vader;;Farinha;Beneficiado;Não;3000;Kg;jan;set;;55;R$ 120,00;6600;Não;1246598-4;587 789 692-04;S;S;S;N;S;N;Não;Não;Não;Regular
 18/09/2016;Madeira;RDS do Amapa;Boa Esperança;Eduardo Hipy daSilva;1;Dudu;;Farinha;Beneficiado;Não;2500;Kg;jan;set;;45;R$ 120,00;5400;Não;3370997-1;054 251 112-66;S;S;N;N;N;N;Não;Não;Não;Regular
-18/09/2016;Madeira;RDS do Amapa;Boa Esperança;Eduardo Hipy daSilva;1;Dudu;;Açai;In natura;Não;520;Kg;Mai;jul;;35;R$ 19,00;665;Não;3370997-2;55 251 112-66;S;S;N;N;N;N;Não;Não;Não;Regular
-18/09/2016;Madeira;RDS do Amapa;Boa Esperança;Naya José Texeira Correa;1;Naya;;Açai;In natura;FAS ;1560;Kg;Mai;Jul;;100;R$ 19,00;1900;97991671201;Não;Não;S;S;N;N;S;N;Não;Não;Não;Regular
+18/09/2016;Madeira;RDS do Amapa;Boa Esperança;Eduardo Hipy daSilva;1;Dudu;;Acai;In natura;Não;520;Kg;Mai;jul;;35;R$ 19,00;665;Não;3370997-2;55 251 112-66;S;S;N;N;N;N;Não;Não;Não;Regular
+18/09/2016;Madeira;RDS do Amapa;Boa Esperança;Naya José Texeira Correa;1;Naya;;Acai;In natura;FAS ;1560;Kg;Mai;Jul;;100;R$ 19,00;1900;97991671201;Não;Não;S;S;N;N;S;N;Não;Não;Não;Regular
 18/09/2016;Madeira;RDS do Amapa;Boa Esperança;Rivelino Claro de Carvalho;1;Pelado;;Farinha;Beneficiado;FAS ;1750;Kg;Mai;set;;30;R$ 120,00;3600;97991858164;1527425-0;650 797 522-20;S;S;N;N;S;N;Não;Não;Não;Regular
 10/12/2016;Madeira;RDS do Amapa;Vista Alegre;Giliarde Paulo Oliveira Bitencuort;1;Paulo Bucho;;Farinha;Beneficiado;FAS ;7500;Kg;Mai;Set;;120;R$ 150,00;18000;Não;2155649-0;928 530 212-20;S;S;S;N;S;N;Não;Não;Não;Regular
 10/12/2016;Madeira;RDS do Amapa;Vista Alegre;Giliarde Paulo Oliveira Bitencuort;1;Paulo Bucho;;Castanha;In natura;Não;700;Kg;Jan;Abr;;65;R$ 26,00;1690;Não;2155649-2;930 530 212-20;S;S;S;N;S;N;Não;Não;Não;Regular
-10/12/2016;Madeira;RDS do Amapa;Vista Alegre;Giliarde Paulo Oliveira Bitencuort;1;Paulo Bucho;;Açai;In natura;Não;208;Kg;Abr;Jun;;17;R$ 272,00;;Não;2155649-3;931 530 212-20;S;S;S;N;S;N;Não;Não;Não;Regular
+10/12/2016;Madeira;RDS do Amapa;Vista Alegre;Giliarde Paulo Oliveira Bitencuort;1;Paulo Bucho;;Acai;In natura;Não;208;Kg;Abr;Jun;;17;R$ 272,00;;Não;2155649-3;931 530 212-20;S;S;S;N;S;N;Não;Não;Não;Regular
 10/12/2016;Madeira;RDS do Amapa;Vista Alegre;Alcy Soares Cavalcante;1;Alcy;;Farinha;Beneficiado;FAS ;1000;Kg;jan;Dez;;10;R$ 150,00;1500;Não;1004544-9;596 096 642-53;S;S;N;S;N;N;Não;Não;Não;Regular
 10/12/2016;Madeira;RDS do Amapa;Vista Alegre;Alcy Soares Cavalcante;1;Alcy;;Castanha;In natura;Não;450;Kg;jan;Abr;;40;R$ 20,00;800;Não;1004544-9;598 096 642-53;S;S;N;S;N;N;Não;Não;Não;Regular
-10/12/2016;Madeira;RDS do Amapa;Vista Alegre;Alcy Soares Cavalcante;1;Alcy;;Açai;In natura;Não;4550;Kg;jan;jun;;340;R$ 20,00;6800;Não;1004544-10;599 096 642-53;S;S;N;S;N;N;Não;Não;Não;Regular
+10/12/2016;Madeira;RDS do Amapa;Vista Alegre;Alcy Soares Cavalcante;1;Alcy;;Acai;In natura;Não;4550;Kg;jan;jun;;340;R$ 20,00;6800;Não;1004544-10;599 096 642-53;S;S;N;S;N;N;Não;Não;Não;Regular
 10/12/2016;Madeira;RDS do Amapa;Vista Alegre;Clenilde Perereira da Silva;1;Quelica;;Farinha;Beneficiado;FAS ;3000;Kg;jan;Dez;;55;R$ 150,00;8250;Não;;011 084 872 11;S;S;N;N;S;N;Não;Não;Não;Regular
 10/12/2016;Madeira;RDS do Amapa;Vista Alegre;Clenilde Perereira da Silva;1;Quelica;;Castanha;In natura;Não;320;Kg;jan;Abr;;30;R$ 20,00;600;Não;2540050-10;011 084 872-11;S;S;N;N;S;N;Não;Não;Não;Regular
-10/12/2016;Madeira;RDS do Amapa;Vista Alegre;Clenilde Perereira da Silva;1;Quelica;;Açai;In natura;Não;390;Kg;jan;Jul;;25;R$ 17,00;425;Não;2540050-11;12 084 872-11;S;S;N;N;S;N;Não;Não;Não;Regular
+10/12/2016;Madeira;RDS do Amapa;Vista Alegre;Clenilde Perereira da Silva;1;Quelica;;Acai;In natura;Não;390;Kg;jan;Jul;;25;R$ 17,00;425;Não;2540050-11;12 084 872-11;S;S;N;N;S;N;Não;Não;Não;Regular
 10/12/2016;Madeira;RDS do Amapa;Vista Alegre;Elilton Antônio Saboia Dias;1;Elilton;;Farinha;Beneficiado;FAS ;3500;Kg;jan;Dez;;60;R$ 150,00;9000;Não;Não;Não;S;S;N;N;S;N;Não;Não;Não;Regular
 10/12/2016;Madeira;RDS do Amapa;Vista Alegre;Elilton Antônio Saboia Dias;1;Elilton;;Castanha;In natura;Não;550;Kg;jan;Abr;;50;R$ 20,00;1000;Não;Não;Não;S;S;N;N;S;N;Não;Não;Não;Regular
-10/12/2016;Madeira;RDS do Amapa;Vista Alegre;Elilton Antônio Saboia Dias;1;Elilton;;Açai;In natura;Não;780;Kg;jan;ju;;50;R$ 17,00;850;Não;Não;Não;S;S;N;N;S;N;Não;Não;Não;Regular
+10/12/2016;Madeira;RDS do Amapa;Vista Alegre;Elilton Antônio Saboia Dias;1;Elilton;;Acai;In natura;Não;780;Kg;jan;ju;;50;R$ 17,00;850;Não;Não;Não;S;S;N;N;S;N;Não;Não;Não;Regular
 10/12/2016;Madeira;RDS do Amapa;Vista Alegre;Cidiomar Bitencuort de Mecêdo;1;Cidia;;Farinha;Beneficiado;FAS ;3500;Kg;jan;Dez;;60;R$ 150,00;9000;Não;Não;651 529 482-42;S;S;N;N;N;N;Não;Não;Não;Regular
 10/12/2016;Madeira;RDS do Amapa;Vista Alegre;Cidiomar Bitencuort de Mecêdo;1;Cidia;;Castanha;In natura;Não;200;Kg;jan;abr;;20;R$ 30,00;600;Não;Não;653 529 482-42;S;S;N;N;N;N;Não;Não;Não;Regular
-10/12/2016;Madeira;RDS do Amapa;Vista Alegre;Cidiomar Bitencuort de Mecêdo;1;Cidia;;Açai;In natura;Não;325;Kg;jan;abr;;10;R$ 250,00;;Não;Não;654 529 482-42;S;S;N;N;N;N;Não;Não;Não;Regular
+10/12/2016;Madeira;RDS do Amapa;Vista Alegre;Cidiomar Bitencuort de Mecêdo;1;Cidia;;Acai;In natura;Não;325;Kg;jan;abr;;10;R$ 250,00;;Não;Não;654 529 482-42;S;S;N;N;N;N;Não;Não;Não;Regular
 08/12/2016;Madeira;RDS do Amapa;Vista Alegre;Maria de Jesus Barbosa Araújo;1;Maria;;Farinha;Beneficiado;Não;5000;Kg;jan;Dez;;80;R$ 150,00;12000;Não;1739880-2 ;641 548 902-04;S;S;S;N;S;S;Uma Roçadeira;2007;Pronaf;Pendente
 08/12/2016;Madeira;RDS do Amapa;Vista Alegre;Maria de Jesus Barbosa Araújo;1;Maria;;Castanha;In natura;Não;800;Kg;jan;Abr;;77;R$ 20,00;1540;Não;1739880-4;643 548 902-04;S;S;S;N;S;S;Uma Roçadeira;2007;Pronaf;Pendente
-08/12/2016;Madeira;RDS do Amapa;Vista Alegre;Maria de Jesus Barbosa Araújo;1;Maria;;Açai;In natura;Não;2340;Kg;jan;jul;;40;R$ 17,00;680;Não;1739880-5;641 548 902-04;S;S;S;N;S;S;Uma Roçadeira;2007;Pronaf;Pendente
+08/12/2016;Madeira;RDS do Amapa;Vista Alegre;Maria de Jesus Barbosa Araújo;1;Maria;;Acai;In natura;Não;2340;Kg;jan;jul;;40;R$ 17,00;680;Não;1739880-5;641 548 902-04;S;S;S;N;S;S;Uma Roçadeira;2007;Pronaf;Pendente
 08/12/2016;Madeira;RDS do Amapa;Vista Alegre;Jandir Gama Bitencuort;1;Jandir;;Farinha;Beneficiado;FAS ;7500;Kg;jan;Dez;;140;R$ 150,00;21000;Não;2612696-6;009 631 509-43;S;S;S;N;S;N;Não;Não;Não;Regular
-08/12/2016;Madeira;RDS do Amapa;Vista Alegre;Jandir Gama Bitencuort;1;Jandir;;Açai;In natura;Não;130;Kg;jan;Mai;;10;R$ 20,00;200;Não;2612696-7;009 631 509-43;S;S;S;N;S;N;Não;Não;Não;Regular
+08/12/2016;Madeira;RDS do Amapa;Vista Alegre;Jandir Gama Bitencuort;1;Jandir;;Acai;In natura;Não;130;Kg;jan;Mai;;10;R$ 20,00;200;Não;2612696-7;009 631 509-43;S;S;S;N;S;N;Não;Não;Não;Regular
 08/12/2016;Madeira;RDS do Amapa;Vista Alegre;Antônia Jessica Soares Castro;1;Jessica;;Farinha;Beneficiado;FAS ;1500;Kg;jan;Dez;;25;R$ 150,00;3750;Não;9663291-8;017 253 252-39;S;S;S;N;S;N;Não;Não;Não;Regular
 08/12/2016;Madeira;RDS do Amapa;Vista Alegre;Maria Nelzita Texeira Pinheiro;1;Nelzita;;Farinha;Beneficiado;FAS ;1500;Kg;jan;Dez;;80;R$ 150,00;12000;Não;2262950-5;935 927 792-49;S;S;S;S;S;N;Não;Não;Não;Regular
 08/12/2016;Madeira;RDS do Amapa;Vista Alegre;Dionesio Hipy do Espirito Santo;1;Dionesio;;Farinha;Beneficiado;FAS ;2500;Kg;Jan;Set;;40;R$ 150,00;6000;Não;1046261-9;417 438 922-49;S;S;N;N;S;N;Não;Não;Não;Regular
 09/12/2016;Madeira;RDS do Amapa;Vista Alegre;Dionesio Hipy do Espirito Santo;1;Dionesio;;Castanha;In natura;Não;500;Kg;Jan;Abri;;40;R$ 20,00;800;Não;1046261-9;418 438 922-49;S;S;N;N;S;N;Não;Não;Não;Regular
-08/12/2016;Madeira;RDS do Amapa;Vista Alegre;Dionesio Hipy do Espirito Santo;1;Dionesio;;Açai;In natura;Não;1300;Kg;Jan;Mai;;80;R$ 17,00;1360;Não;1046261-9;417 438 922-49;S;S;N;N;S;N;Não;Não;Não;Regular
+08/12/2016;Madeira;RDS do Amapa;Vista Alegre;Dionesio Hipy do Espirito Santo;1;Dionesio;;Acai;In natura;Não;1300;Kg;Jan;Mai;;80;R$ 17,00;1360;Não;1046261-9;417 438 922-49;S;S;N;N;S;N;Não;Não;Não;Regular
 08/12/2016;Madeira;RDS do Amapa;Vista Alegre;Ediezio Dias Dantas;1;Chico;;Farinha;Beneficiado;FAS ;750;Kg;Jan;set;;13;R$ 150,00;1950;Não;1475396-0; 938 930 002-91;S;S;N;N;N;N;Não;Não;Não;Regular
-08/12/2016;Madeira;RDS do Amapa;Vista Alegre;Ediezio Dias Dantas;1;Chico;;Açai;In natura;Não;130;Kg;Jan;jun;;8;R$ 20,00;160;Não;1475396-0; 939 930 002-91;S;S;N;N;N;N;Não;Não;Não;Regular
+08/12/2016;Madeira;RDS do Amapa;Vista Alegre;Ediezio Dias Dantas;1;Chico;;Acai;In natura;Não;130;Kg;Jan;jun;;8;R$ 20,00;160;Não;1475396-0; 939 930 002-91;S;S;N;N;N;N;Não;Não;Não;Regular
 08/12/2016;Madeira;RDS do Amapa;Vista Alegre;Aprigio Bitencuort de Macêdo;1;Aprigio;;Farinha;Beneficiado;FAS ;4000;Kg;jan;Dez;;75;R$ 150,00;11250;97991381946;2980707-7;041 598 082-80;S;S;N;N;S;S;Mandioca;2016;IDAM;Regular
-09/12/2016;Madeira;RDS do Amapa;Vista Alegre;Aprigio Bitencuort de Macêdo;1;Aprigio;;Açai;In natura;Não;390;Kg;jan;Jun;;20;R$ 17,00;340;97991381946;2980707-7;041 598 082-80;S;S;N;N;S;S;Mandioca;2016;IDAM;Regular
+09/12/2016;Madeira;RDS do Amapa;Vista Alegre;Aprigio Bitencuort de Macêdo;1;Aprigio;;Acai;In natura;Não;390;Kg;jan;Jun;;20;R$ 17,00;340;97991381946;2980707-7;041 598 082-80;S;S;N;N;S;S;Mandioca;2016;IDAM;Regular
 10/12/2016;Madeira;RDS do Amapa;Vista Alegre;Aprigio Bitencuort de Macêdo;1;Aprigio;;Castanha;In natura;Não;600;Kg;jan;Abr;;57;R$ 25,00;1425;97991381946;2980707-7;041 598 082-80;S;S;N;N;S;S;Mandioca;2016;IDAM;Regular
 08/12/2016;Madeira;RDS do Amapa;Vista Alegre;Maria de Fatima do E Bitencourtm;1;Maria;;Farinha;Beneficiado;FAS ;1000;Kg;jan;Dez;;15;R$ 150,00;2250;Não;2443466-0;012 560 592-77;S;S;N;N;S;N;Não;Não;Não;Regular
-08/12/2016;Madeira;RDS do Amapa;Vista Alegre;Maria de Fatima do E Bitencourtm;1;Maria;;Açai;In natura;Não;390;Kg;jan;Jun;;20;R$ 17,00;340;Não;2443466-0;012 560 592-77;S;S;N;N;S;N;Não;Não;Não;Regular
+08/12/2016;Madeira;RDS do Amapa;Vista Alegre;Maria de Fatima do E Bitencourtm;1;Maria;;Acai;In natura;Não;390;Kg;jan;Jun;;20;R$ 17,00;340;Não;2443466-0;012 560 592-77;S;S;N;N;S;N;Não;Não;Não;Regular
 08/12/2016;Madeira;RDS do Amapa;Vista Alegre;Maria de Fatima do E Bitencourtm;1;Maria;;Castanha;In natura;Não;200;Kg;jan;Abr;;18;R$ 25,00;450;Não;2443466-0; 012560 592-77;S;S;N;N;S;N;Não;Não;Não;Regular
 08/12/2016;Madeira;RDS do Amapa;Vista Alegre;Maria Carvalho Dantas;1;Maria;;Farinha;Beneficiado;FAS ;2500;Kg;Jan;Dez;;40;R$ 150,00;6000;97991769067;0931183-1;334 736 5200;S;S;S;N;N;N;Não;Não;Não;Regular
 08/12/2016;Madeira;RDS do Amapa;Vista Alegre;Manuel Dantas de Araújo;1;Manuel;;Farinha;Beneficiado;FAS ;2000;Kg;jan;Dez;;37;R$ 150,00;5550;Não;1475459-2;668 338 769-15;S;S;N;N;N;S;Banana;2013;IDAM;Regular
 08/12/2016;Madeira;RDS do Amapa;Vista Alegre;Conceição Rego Leite;1;Conce;;Farinha;Beneficiado;FAS ;1000;Kg;Jan;Dez;;15;R$ 150,00;2250;Não;2925550-3;030 383 632-60;S;S;N;N;S;N;Não;Não;Não;Regular
 08/12/2016;Madeira;RDS do Amapa;Vista Alegre;Conceição Rego Leite;1;Conce;;Castanha;In natura;Não;100;Kg;Jan;Abr;;10;R$ 20,00;200;Não;2925550-3;030 383 632-60;S;S;N;N;S;N;Não;Não;Não;Regular
-08/12/2016;Madeira;RDS do Amapa;Vista Alegre;Conceição Rego Leite;1;Conce;;Açai;In natura;Não;130;Kg;Jan;Jun;;10;R$ 17,00;170;Não;2925550-3;030 383 632-60;S;S;N;N;S;N;Não;Não;Não;Regular
+08/12/2016;Madeira;RDS do Amapa;Vista Alegre;Conceição Rego Leite;1;Conce;;Acai;In natura;Não;130;Kg;Jan;Jun;;10;R$ 17,00;170;Não;2925550-3;030 383 632-60;S;S;N;N;S;N;Não;Não;Não;Regular
 08/12/2016;Madeira;RDS do Amapa;Vista Alegre;Agenora Barros Fernandes;1;Agenora;;Farinha;Beneficiado;FAS ;500;Kg;Jan;Dez;;6;R$ 150,00;900;Não;1148486-1;508 056 762 04;S;S;N;N;N;N;Não;Não;Não;Regular
 08/12/2016;Madeira;RDS do Amapa;Vista Alegre;Agenora Barros Fernandes;1;Agenora;;Castanha;In natura;Não;100;Kg;Jan;abr;;8;R$ 20,00;160;Não;1148486-1;508056762-04;S;S;N;N;N;N;Não;Não;Não;Regular
-08/12/2016;Madeira;RDS do Amapa;Vista Alegre;Agenora Barros Fernandes;1;Agenora;;Açai;In natura;Não;390;Kg;Jan;jul;;25;R$ 17,00;425;Não;1148486-1;508056762-04;S;S;N;N;N;N;Não;Não;Não;Regular
+08/12/2016;Madeira;RDS do Amapa;Vista Alegre;Agenora Barros Fernandes;1;Agenora;;Acai;In natura;Não;390;Kg;Jan;jul;;25;R$ 17,00;425;Não;1148486-1;508056762-04;S;S;N;N;N;N;Não;Não;Não;Regular
 08/12/2016;Madeira;RDS do Amapa;Vista Alegre;Delmo Dantas Bentes;1;Bacural;;Farinha;Beneficiado;FAS ;500;Kg;Jan;Dez;;6;R$ 150,00;900;Não;1477457-7;643 521 452-20;S;S;N;N;N;N;Não;Não;Não;Regular
 08/12/2016;Madeira;RDS do Amapa;Vista Alegre;Jair Gama Bitencourt;1;Jair;;Farinha;Beneficiado;FAS ;1250;Kg;Jan;Dez;;20;R$ 150,00;3000;Não;1844941-7;741 506342-20;S;S;N;N;S;N;Não;Não;Não;Regular
 08/12/2016;Madeira;RDS do Amapa;Vista Alegre;Lucicleia Dias Dantas;1;Lucinha;;Farinha;Beneficiado;FAS ;1250;Kg;jan;Dez;;5;R$ 150,00;750;Não;1244881-5;587 597 782-53;S;S;S;N;N;N;Não;Não;Não;Regular
 08/12/2016;Madeira;RDS do Amapa;Vista Alegre;Rosilene dos Santos Dantas;1;Gitinha;;Farinha;Beneficiado;FAS ;2500;Kg;jan;Dez;;40;R$ 150,00;6000;Não;1747458-2;781 935 832-72;S;S;N;N;S;N;Não;Não;Não;Regular
 08/12/2016;Madeira;RDS do Amapa;Vista Alegre;Maria Denizete C. Rego;1;Dane;;Farinha;Beneficiado;FAS ;1500;Kg;jan;Dez;;20;R$ 150,00;3000;Não;2652636-0;016 834 822-55;S;S;N;N;S;N;Não;Não;Não;Regular
 08/12/2016;Madeira;RDS do Amapa;Vista Alegre;Maria Denizete C. Rego;1;Dane;;Castanha;In natura;Não;250;Kg;jan;Dez;;20;R$ 20,00;400;Não;2652636-0;016 834 822-55;S;S;N;N;S;N;Não;Não;Não;Regular
-08/12/2016;Madeira;RDS do Amapa;Vista Alegre;Maria Denizete C. Rego;1;Dane;;Açai;In natura;Não;1950;Kg;jan;JUN;;140;R$ 17,00;2380;Não;2652636-0;016 834 822-55;S;S;N;N;S;N;Não;Não;Não;Regular
+08/12/2016;Madeira;RDS do Amapa;Vista Alegre;Maria Denizete C. Rego;1;Dane;;Acai;In natura;Não;1950;Kg;jan;JUN;;140;R$ 17,00;2380;Não;2652636-0;016 834 822-55;S;S;N;N;S;N;Não;Não;Não;Regular
 08/12/2016;Madeira;RDS do Amapa;Vista Alegre;Diomedes Hipy do Espirito Santo;1;Diomedes;;Farinha;Beneficiado;FAS ;3000;Kg;Jan;DEZ;;50;R$ 150,00;7500;Não;335413;474 991 092 -91;S;S;N;N;S;N;Não;Não;Não;Regular
 08/12/2016;Madeira;RDS do Amapa;Vista Alegre;Diomedes Hipy do Espirito Santo;1;Diomedes;;Castanha;In natura;Não;300;Kg;Jan;ABR;;25;R$ 20,00;500;Não;335413;474 991 092 -91;S;S;N;N;S;N;Não;Não;Não;Regular
-08/12/2016;Madeira;RDS do Amapa;Vista Alegre;Diomedes Hipy do Espirito Santo;1;Diomedes;;Açai;In natura;Não;520;Kg;Jan;JUN;;25;R$ 17,00;425;Não;335413;474 991 092 -91;S;S;N;N;S;N;Não;Não;Não;Regular
+08/12/2016;Madeira;RDS do Amapa;Vista Alegre;Diomedes Hipy do Espirito Santo;1;Diomedes;;Acai;In natura;Não;520;Kg;Jan;JUN;;25;R$ 17,00;425;Não;335413;474 991 092 -91;S;S;N;N;S;N;Não;Não;Não;Regular
 08/12/2016;Madeira;RDS do Amapa;Vista Alegre;Adaelson Hipy Cavalcante;1;Adaelson;;Farinha;Beneficiado;FAS ;1000;Kg;jan;Dez;;15;R$ 150,00;2250;Não;1765804-7;742 526 072-72;;;;;;;;;;
 08/12/2016;Madeira;RDS do Amapa;Vista Alegre;Adaelson Hipy Cavalcante;1;Adaelson;;Castanha;In natura;Não;200;Kg;jan;Abr;;15;R$ 30,00;450;Não;1765804-7;742 526 072-72;;;;;;;;;;
-08/12/2016;Madeira;RDS do Amapa;Vista Alegre;Adaelson Hipy Cavalcante;1;Adaelson;;Açai;In natura;Não;130;Kg;jan;Jun;;8;R$ 17,00;136;Não;1765804-7;742 526 072-72;;;;;;;;;;
+08/12/2016;Madeira;RDS do Amapa;Vista Alegre;Adaelson Hipy Cavalcante;1;Adaelson;;Acai;In natura;Não;130;Kg;jan;Jun;;8;R$ 17,00;136;Não;1765804-7;742 526 072-72;;;;;;;;;;
 08/12/2016;Madeira;RDS do Amapa;Vista Alegre;Maria Valdelice Cavalcante Rêgo;1;Maria;;Farinha;Beneficiado;FAS ;500;Kg;Jan;Dez;;5;R$ 150,00;750;Não;29421250;037 407 692 89;S;S;N;N;S;N;Não;Não;Não;Regular
 08/12/2016;Madeira;RDS do Amapa;Vista Alegre;Fernando Dantas de Macêdo;1;Colo;;Farinha;Beneficiado;FAS ;1000;Kg;jan;Dez;;18;R$ 150,00;2700;Não;255866-3;012 749 802-83;S;S;N;N;S;N;Não;Não;Não;Regular
 08/12/2016;Madeira;RDS do Amapa;Vista Alegre; Antônio Dantas Bentes ;1;Tote;;Farinha;Beneficiado;FAS ;1250;Kg;Jan;;;20;R$ 150,00;3000;Não;1770523-1;734 190 952-87;S;S;N;S;S;N;Não;Não;Não;Regular
@@ -508,7 +508,7 @@ Data;Regional;UC;Comunidade;Nome;Familias1;Apelido;Cadeia Produtiva;Produtos;Tip
 11/12/2016;Madeira;RDS do Amapa;Agua Azul;Raimundo Texeira de Souza;1;Fino;;Farinha;Beneficiado;FAS ;1500;Kg;jan;Dez;;30;R$ 130,00;3900;97991382107;1246601-8;638 560 182-04;S;S;S;N;S;N;Não;Não;Não;Regular
 11/12/2016;Madeira;RDS do Amapa;Agua Azul;Adaelson Moraes Pinheiro;1;Nanã;;Farinha;Beneficiado;FAS ;2500;Kg;Jan;Dez;;44;R$ 130,00;5720;97991970413;2083577-9;844 392 542-68;S;S;S;N;S;N;Não;Não;Não;Regular
 11/12/2016;Madeira;RDS do Amapa;Agua Azul;Raimundo Araújo Pinto;1;Sardinha;;Farinha;Beneficiado;FAS ;1000;Kg;Jan;Dez;;10;R$ 130,00;1300;Não;718 003;213 429 202-44;S;N;N;N;N;N;Não;Não;Não;Regular
-11/12/2016;Madeira;RDS do Amapa;Agua Azul;Raimundo Araújo Pinto;1;Sardinha;;Açai;In natura;Não;1300;Kg;Mar;Jul;;100;R$ 20,00;1950;Não;718 003;213 429 202 -44;S;N;N;N;N;N;Não;Não;Não;Regular
+11/12/2016;Madeira;RDS do Amapa;Agua Azul;Raimundo Araújo Pinto;1;Sardinha;;Acai;In natura;Não;1300;Kg;Mar;Jul;;100;R$ 20,00;1950;Não;718 003;213 429 202 -44;S;N;N;N;N;N;Não;Não;Não;Regular
 11/12/2016;Madeira;RDS do Amapa;Agua Azul;Silvio Lavareda Galdino;1;Lico;;Farinha;Beneficiado;FAS ;1000;Kg;Jan;Dez;;20;R$ 120,00;2400;97991822592;2083890-5;Não;S;S;N;N;S;N;Não;Não;Instituição;Situação Atual
 11/12/2016;Madeira;RDS do Amapa;Agua Azul;Eneias Lopes;1;Eneias;;Farinha;Beneficiado;FAS ;1000;Kg;Jan;Dez;;20;R$ 140,00;2800;Não;572 053;144 302 152-00;S;S;S;N;S;N;Não;Não;Não;Regular
 11/12/2016;Madeira;RDS do Amapa;Agua Azul;Raimundo Pinto deSouza;1;Bichinho;;Farinha;Beneficiado;FAS ;1500;Kg;Jan;Dez;;26;R$ 130,00;3380;97991830568;0947791-8;343850022-15;S;S;N;N;S;N;Não;Não;Não;Regular
@@ -520,140 +520,140 @@ Data;Regional;UC;Comunidade;Nome;Familias1;Apelido;Cadeia Produtiva;Produtos;Tip
 08/12/2016;Madeira;RDS do Amapa;Terra Preta BR 174;Valter Soares Cavalcante;1;Valtinho;;Farinha;Beneficiado;FAS ;2400;Kg;Jan;Dez;;43;R$ 130,00;5590;Não;90725-2;343 860 412-49;S;S;S;N;S;N;Não;Não;Não;Regular
 08/12/2016;Madeira;RDS do Amapa;Terra Preta BR 174;Raimundo Erculano S.Cavalcante;1;Tito;;Farinha;Beneficiado;FAS ;2000;Kg;Jan;Dez;;33;R$ 130,00;4290;Não;1654985-6;698 853 112-12;S;S;N;N;S;N;Não;Não;Não;Regular
 data;Madeira;RDS do Amapa;terra preta BR174;Raimundo Erculano S.Cavalcante;1;Tito;;Castanha;In natura;Não;200;Kg;Jan;Abr;;18;R$ 20,00;360;Não;1654985-6;698 853 112-12;S;S;N;N;S;N;Não;Não;Não;Regular
-Data;Madeira;RDS do Amapa;Terra preta Br 174;Raimundo Erculano S.Cavalcante;1;Tito;;Açai;In natura;Não;2600;Kg;Jul;Ago;;190;R$ 20,00;3800;Contato;1654985-6;698 853 112-12;S;S;N;N;S;N;Não;Não;Não;Regular
+Data;Madeira;RDS do Amapa;Terra preta Br 174;Raimundo Erculano S.Cavalcante;1;Tito;;Acai;In natura;Não;2600;Kg;Jul;Ago;;190;R$ 20,00;3800;Contato;1654985-6;698 853 112-12;S;S;N;N;S;N;Não;Não;Não;Regular
 18/12/2016;Madeira;RDS do Amapa;Terra Preta ;Edno Soares Cavalcante;1;Velho;;Castanha;In natura;Não;150;Kg;Jan;Abr;;13;R$ 20,00;260;Não;2708559-7;018 877 592-71;S;S;N;N;N;N;Não;Não;Não;Regular
 18/12/2016;Madeira;RDS do Amapa;Terra Preta ;Edno Soares Cavalcante;1;Velho;;Farinha;Beneficiado;FAS ;1000;Kg;Jan;Dez;;17;R$ 130,00;2210;Não;2708559-7;018 877 592-71;S;S;N;N;N;N;Não;Não;Não;Regular
-18/12/2016;Madeira;RDS do Amapa;Terra Preta ;Edno Soares Cavalcante;1;Velho;;Açai;In natura;Não;2600;Kg;Jul;ago;;195;R$ 20,00;3900;Não;2708559-7;018 877 592-71;S;S;N;;N;N;Não;Não;Não;Regular
+18/12/2016;Madeira;RDS do Amapa;Terra Preta ;Edno Soares Cavalcante;1;Velho;;Acai;In natura;Não;2600;Kg;Jul;ago;;195;R$ 20,00;3900;Não;2708559-7;018 877 592-71;S;S;N;;N;N;Não;Não;Não;Regular
 18/12/2016;Madeira;RDS do Amapa;Terra Preta BR 174;Paulo Roberto B.Cavalcante;1;Paulinho;;Farinha;Beneficiado;FAS ;1500;Kg;Jan;Dez;;28;R$ 130,00;3640;Não;2443105-2;001 565 092-88;N;N;N;N;N;N;Não;Não;Não;Regular
-18/12/2016;Madeira;RDS do Amapa;Terra Preta BR 174;Paulo Roberto B.Cavalcante;1;Paulinho;;Açai;In natura;Não;1170;Kg;Jul;Ago;;90;R$ 20,00;1800;Não;2443105-2;001 565 092-88;N;N;N;N;N;N;Não;Não;Não;Regular
+18/12/2016;Madeira;RDS do Amapa;Terra Preta BR 174;Paulo Roberto B.Cavalcante;1;Paulinho;;Acai;In natura;Não;1170;Kg;Jul;Ago;;90;R$ 20,00;1800;Não;2443105-2;001 565 092-88;N;N;N;N;N;N;Não;Não;Não;Regular
 18/12/2016;Madeira;RDS do Amapa;Terra Preta BR 174;Paulo Roberto B.Cavalcante;1;Paulinho;;Castanha;In natura;Não;1000;Kg;Jan;Abr;;100;R$ 20,00;200;Não;2443105-2;001 565 092-88;N;N;N;N;N;N;Não;Não;Não;Regular
 18/12/2016;Madeira;RDS do Amapa;Terra Preta;Arilson Barboza Cavalcante;1;Arilson;;Farinha;Beneficiado;FAS ;1500;Kg;jan;Dez;;28;R$ 130,00;3640;Não;2910182-4;041826192-00;N;N;N;N;N;N;Não;Não;Não;Regular
-18/12/2016;Madeira;RDS do Amapa;Terra Preta;Arilson Barboza Cavalcante;1;Arilson;;Açai;In natura;Não;1170;Kg;Jul;Ago;;90;R$ 20,00;1800;Não;2910182-4;041 826 192-00;N;N;N;N;N;N;Não;Não;Não;Regular
+18/12/2016;Madeira;RDS do Amapa;Terra Preta;Arilson Barboza Cavalcante;1;Arilson;;Acai;In natura;Não;1170;Kg;Jul;Ago;;90;R$ 20,00;1800;Não;2910182-4;041 826 192-00;N;N;N;N;N;N;Não;Não;Não;Regular
 18/12/2016;Madeira;RDS do Amapa;Terra Preta;Arilson Barboza Cavalcante;1;Arilson;;Castanha;In natura;Não;1000;Kg;jan;Abr;;100;R$ 23,00;2300;Não;2910182-4;041-826 192-00;N;N;N;N;N;N;Não;Não;Não;Regular
 Data;Madeira;RDS do Amapa;Terra Preta;Heitor Soares Cavalcante;1;Curara;;Farinha;Beneficiado;FAS ;2000;Kg;Jan;Dez;;30;R$ 130,00;3900;Não;2443605-2;001 565 092-00;N;N;N;N;N;N;Não;Não;Não;Regular
 Data;Madeira;RDS do Amapa;Terra Preta;Heitor Soares Cavalcante;1;Curara;;Castanha;In natura;Não;700;Kg;Jan;Abr;;60;R$ 23,00;1380;Não;2443605-2;001 565 092-00;N;N;N;N;N;N;Não;Não;Não;Regular
-;Madeira;RDS do Amapa;Terra Preta;Heitor Soares Cavalcante;1;Curara;;Açai;In natura;Não;1950;Kg;Jul;Ago;;130;R$ 21,00;2730;Não;2443605-2;001 565 092-00;N;N;N;N;N;N;Não;Não;Não;Regular
+;Madeira;RDS do Amapa;Terra Preta;Heitor Soares Cavalcante;1;Curara;;Acai;In natura;Não;1950;Kg;Jul;Ago;;130;R$ 21,00;2730;Não;2443605-2;001 565 092-00;N;N;N;N;N;N;Não;Não;Não;Regular
 18/12/2016;Madeira;RDS do Amapa;Terra Preta;Valdeir Barboza Cavalcante;1;Cabeça;;Farinha;Beneficiado;FAS ;600;Kg;jan;Dez;;10;R$ 130,00;1300;Não;2609631-5;011 767 042-14;N;N;N;N;N;N;Não;Não;Não;Regular
 18/12/2016;Madeira;RDS do Amapa;Terra Preta;Valdeir Barboza Cavalcante;1;Cabeça;;Castanha;In natura;Não;500;Kg;jan;Abr;;48;R$ 22,00;1056;Não;2609631-5;011 767 042-14;N;N;N;N;N;N;Não;Não;Não;Regular
-18/12/2016;Madeira;RDS do Amapa;Terra Preta;Valdeir Barboza Cavalcante;1;Cabeça;;Açai;In natura;Não;1300;Kg;Jul;Ago;;95;R$ 21,00;1995;Não;2609631-5;011 767 042-14;N;N;N;N;N;N;Não;Não;Não;Regular
+18/12/2016;Madeira;RDS do Amapa;Terra Preta;Valdeir Barboza Cavalcante;1;Cabeça;;Acai;In natura;Não;1300;Kg;Jul;Ago;;95;R$ 21,00;1995;Não;2609631-5;011 767 042-14;N;N;N;N;N;N;Não;Não;Não;Regular
 28/09/2016;Madeira;RDS do Amapa;Santa Eva;Abelor Finzes de Jesus;1;Abelô;;Farinha;Beneficiado;Não;250;Kg;jan;set;;0;R$ 0,00;0;não;Não;638 551 132-04;S;S;N;N;S;S;Banana;2013;Baza;ok
 20/09/2016;Madeira;RDS do Amapa;Pandegal;Adailzo Cangati Barbosa;1;chuca;;Farinha;Beneficiado;Não;500;Kg;jan;set;;0;R$ 0,00;0;Não;1120918-9;851 106 552 -00;S;N;N;S;S;N;Não;Não;Não;ok
-20/09/2016;Madeira;RDS do Amapa;Pandegal;Adailzo Cangati Barbosa;1;chuca;;Açai;In natura;Não;650;Kg;Abr;mai;;45;R$ 20,00;90;;;;;;;;;;;;;
+20/09/2016;Madeira;RDS do Amapa;Pandegal;Adailzo Cangati Barbosa;1;chuca;;Acai;In natura;Não;650;Kg;Abr;mai;;45;R$ 20,00;90;;;;;;;;;;;;;
 09/10/2016;Madeira;RDS do Amapa;Jatuarana;Alfredo Ferreira Pereira;1;Alfa;;Castanha;In natura;FAS ;480;Kg;jan;abr;;45;R$ 35,00;1575;não;1247047-3;191 381 562 -53;S;S;S;N;S;N;Não;Não;Não;ok
 09/10/2016;Madeira;RDS do Amapa;Jatuarana;Alfredo Ferreira Pereira;1;Alfa;;Farinha;Beneficiado;Não;3000;Kg;;set;;55;R$ 150,00;8250;;;;;;;;;;;;;
 30/09/2016;Madeira;RDS do Amapa;Jatuarana;Amarildo deOliveira;1;Marico;;Farinha;Beneficiado;Não;2000;Kg;jan;set;;37;R$ 150,00;5550;92992669041;1874926-7;786 566 302-10;S;S;N;N;S;N;não;não;não;ok
 30/09/2016;Madeira;RDS do Amapa;Jatuarana;Amarildo deOliveira;1;Marico;;Castanha;In natura;FAS ;600;Kg;jan;Abr;;60;R$ 35,00;2450;;;;;;;;;;;;;
 28/09/2016;Madeira;RDS do Amapa;Santa Eva;Aristeia Finzes Trindade;1;Aristeia;;Farinha;Beneficiado;Não;500;Kg;jan;set;;8;R$ 120,00;960;não;1874889-9;876 353 992-68;S;S;N;N;N;N;não;não;não;ok
 28/09/2016;Madeira;RDS do Amapa;Santa Eva;Benedito Trajano dias;1;Bode;;Farinha;Beneficiado;Não;2000;Kg;jan;set;;30;R$ 150,00;4500;não;1187021-4 ;476 285 452 -20;S;S;N;N;S;N;não;não;não;ok
-28/09/2016;Madeira;RDS do Amapa;Santa Eva;Benedito Trajano dias;1;Bode;;Açai;In natura;Não;520;Kg;Fev;mai;;40;R$ 20,00;800;;;;;;;;;;;;;
+28/09/2016;Madeira;RDS do Amapa;Santa Eva;Benedito Trajano dias;1;Bode;;Acai;In natura;Não;520;Kg;Fev;mai;;40;R$ 20,00;800;;;;;;;;;;;;;
 27/09/2016;Madeira;RDS do Amapa;Jatuarana;Bruno dos Santos Ferreira;1;Bruno;;Farinha;Beneficiado;Não;200;Kg;jan;set;;4;R$ 150,00;600;não;3082866-0;703 026 732-02;S;S;N;N;S;N;não;não;não;ok
-27/09/2016;Madeira;RDS do Amapa;Jatuarana;Bruno dos Santos Ferreira;1;Bruno;;Açai;In natura;Não;260;Kg;jan;mai;;20;R$ 20,00;400;;;;;;;;;;;;;
+27/09/2016;Madeira;RDS do Amapa;Jatuarana;Bruno dos Santos Ferreira;1;Bruno;;Acai;In natura;Não;260;Kg;jan;mai;;20;R$ 20,00;400;;;;;;;;;;;;;
 30/09/2016;Madeira;RDS do Amapa;Jatuarana;Cleomar Pereira Moreira;1;Tafarel;;Farinha;Beneficiado;Não;2000;Kg;jan;set;;37;R$ 150,00;5550;não;1979574-2;891 755 902-63;S;S;S;N;S;S;Motor Rabeta;2009;AFEAM;não
 30/09/2016;Madeira;RDS do Amapa;Jatuarana;Cleomar Pereira Moreira;1;Tafarel;;Castanha;In natura;FAS ;400;Kg;jan;mai;;39;R$ 35,00;1365;;;;;;;;;;;;;
-30/09/2016;Madeira;RDS do Amapa;Jatuarana;Cleomar Pereira Moreira;1;Tafarel;;Açai;In natura;Não;650;Kg;Jul;Ago;;50;R$ 35,00;1750;;;;;;;;;;;;;
+30/09/2016;Madeira;RDS do Amapa;Jatuarana;Cleomar Pereira Moreira;1;Tafarel;;Acai;In natura;Não;650;Kg;Jul;Ago;;50;R$ 35,00;1750;;;;;;;;;;;;;
 30/09/2016;Madeira;RDS do Amapa;Jatuarana;Cludio Trindade da Cruz;1;Folha;;Farinha;Beneficiado;FAS ;2500;Kg;jan;set;;44;R$ 150,00;6600;97991618277;não;não;S;S;S;N;S;N;Não;Não;Não;ok
 30/09/2016;Madeira;RDS do Amapa;Jatuarana;Cludio Trindade da Cruz;1;Folha;;Castanha;In natura;FAS ;750;Kg;jan;abr;;73;R$ 35,00;2550;;;;;;;;;;;;;
 24/09/2016;Madeira;RDS do Amapa;Jatuarana;Cleomildo Pereira Moreira;1;Cleomildo;;Farinha;Beneficiado;Não;1250;Kg;jan;set;;20;R$ 150,00;3000;92994365848;21166560-2;984 308 742 -91;S;S;S;N;S;N;não;não;não;ok
 24/09/2016;Madeira;RDS do Amapa;Jatuarana;Cleomildo Pereira Moreira;1;Cleomildo;;Castanha;In natura;FAS ;200;Kg;jan;mai;;19;R$ 35,00;665;;;;;;;;;;;;;
-24/09/2016;Madeira;RDS do Amapa;Jatuarana;Cleomildo Pereira Moreira;1;Cleomildo;;Açai;In natura;Não;910;Kg;jan;mai;;65;R$ 35,00;2272;;;;;;;;;;;;;
+24/09/2016;Madeira;RDS do Amapa;Jatuarana;Cleomildo Pereira Moreira;1;Cleomildo;;Acai;In natura;Não;910;Kg;jan;mai;;65;R$ 35,00;2272;;;;;;;;;;;;;
 26/09/2016;Madeira;RDS do Amapa;Jatuarana;Cleunilton Pereira Moreira;1;Velho;;Farinha;Beneficiado;Não;1000;Kg;jan;set;;17;R$ 150,00;2550;não;2455365-4; 009 592 342 -09;S;S;S;N;S;N;não;não;não;ok
 26/09/2016;Madeira;RDS do Amapa;Jatuarana;Cleunilton Pereira Moreira;1;Velho;;Castanha;In natura;FAS ;100;Kg;jan;abr;;9;R$ 35,00;315;;;;;;;;;;;;;
 24/09/2016;Madeira;RDS do Amapa;Jatuarana;Coracir Pereia da Costa;1;Cora;;Farinha;Beneficiado;Não;3500;Kg;jan;set;;65;R$ 150,00;9750;não;1244330-1;853 820 352-53;S;S;S;N;S;N;não;não;não;ok
 24/09/2016;Madeira;RDS do Amapa;Jatuarana;Coracir Pereia da Costa;1;Cora;;Castanha;In natura;FAS ;500;Kg;jan;mai;;45;R$ 35,00;1575;;;;;;;;;;;;;
 28/09/2016;Madeira;RDS do Amapa;Santa Eva;Edilsos Finzes de Jesus;1;Padilha;;Farinha;Beneficiado;Não;200;Kg;jan;set;;0;R$ 0,00;0;não;1516813-1;726 438892-15;S;S;S;N;S;S;Banana;2013;Baza;ok
 29/09/2016;Madeira;RDS do Amapa;Jatuarana;Edney Pereira de Souza;1;Gato;;Farinha;Beneficiado;Não;1000;Kg;jan;set;;14;R$ 150,00;2100;97991579298;1247027-9;865 253 442-04;S;S;S;N;S;N;não;não;não;ok
-29/09/2016;Madeira;RDS do Amapa;Jatuarana;Edney Pereira de Souza;1;Gato;;Açai;In natura;Não;1040;Kg;jan;mai;;70;R$ 20,00;1400;;;;;;;;;;;;;
+29/09/2016;Madeira;RDS do Amapa;Jatuarana;Edney Pereira de Souza;1;Gato;;Acai;In natura;Não;1040;Kg;jan;mai;;70;R$ 20,00;1400;;;;;;;;;;;;;
 29/09/2016;Madeira;RDS do Amapa;Jatuarana;Edney Pereira de Souza;1;Gato;;Castanha;In natura;FAS ;900;Kg;jan;mai;;86;R$ 48,00;4128;;;;;;;;;;;;;
 10/10/2016;Madeira;RDS do Amapa;Jatuarana;Edval Reis Perira;1;Ró;;Castanha;In natura;FAS ;800;Kg;jan;abr;;80;R$ 35,00;2800;não;2263028-7;978 745 312 -72;S;S;N;N;N;N;Não;Não;Não;ok
-10/10/2016;Madeira;RDS do Amapa;Jatuarana;Edval Reis Perira;1;Ró;;Açai;In natura;Não;650;Kg;jan;mai;;40;R$ 35,00;1400;;;;;;;;;;;;;
+10/10/2016;Madeira;RDS do Amapa;Jatuarana;Edval Reis Perira;1;Ró;;Acai;In natura;Não;650;Kg;jan;mai;;40;R$ 35,00;1400;;;;;;;;;;;;;
 30/09/2016;Madeira;RDS do Amapa;Jatuarana;Elcimar dos Santos Gomes;1;Pudim;;Farinha;Beneficiado;FAS ;1800;Kg;jan;set;;33;R$ 150,00;4950;não;3367204-0;049 513 632 -83;S;N;N;N;N;N;Não;Não;Não;ok
-30/09/2016;Madeira;RDS do Amapa;Jatuarana;Elcimar dos Santos Gomes;1;Pudim;;Açai;In natura;Não;104;Kg;Jun;ago;;8;R$ 35,00;280;;;;;;;;;;;;;
+30/09/2016;Madeira;RDS do Amapa;Jatuarana;Elcimar dos Santos Gomes;1;Pudim;;Acai;In natura;Não;104;Kg;Jun;ago;;8;R$ 35,00;280;;;;;;;;;;;;;
 26/09/2016;Madeira;RDS do Amapa;Jatuarana;Eunice Oliveira de Souza;1;Eunice;;Farinha;Beneficiado;Não;1000;Kg;jan;set;;14;R$ 150,00;2100;não;1079986-9;769 977 662-34;S;S;S;N;S;S;Banana;2014;IDAM;Não
 26/09/2016;Madeira;RDS do Amapa;Jatuarana;Eunice Oliveira de Souza;1;Eunice;;Castanha;In natura;FAS ;320;Kg;jan;abr;;28;R$ 35,00;980;;;;;;;;;;;;;
-26/09/2016;Madeira;RDS do Amapa;Jatuarana;Eunice Oliveira de Souza;1;Eunice;;Açai;In natura;Não;104;Kg;jan;mai;;4;R$ 20,00;80;;;;;;;;;;;;;
+26/09/2016;Madeira;RDS do Amapa;Jatuarana;Eunice Oliveira de Souza;1;Eunice;;Acai;In natura;Não;104;Kg;jan;mai;;4;R$ 20,00;80;;;;;;;;;;;;;
 29/09/2016;Madeira;RDS do Amapa;Jatuarana;Geovane G Rodregues;1;Tinho;;Farinha;Beneficiado;Não;1500;Kg;jan;set;;28;R$ 150,00;4200;não;não;não;S;S;S;N;S;S;um gerador;2010;AFEAM;Pendente
-29/09/2016;Madeira;RDS do Amapa;Jatuarana;Geovane G Rodregues;1;Tinho;;Açai;In natura;Não;325;Kg;jan;mai;;20;R$ 35,00;700;;;;;;;;;;;;;
+29/09/2016;Madeira;RDS do Amapa;Jatuarana;Geovane G Rodregues;1;Tinho;;Acai;In natura;Não;325;Kg;jan;mai;;20;R$ 35,00;700;;;;;;;;;;;;;
 29/09/2016;Madeira;RDS do Amapa;Jatuarana;Geovane G Rodregues;1;Tinho;;Castanha;In natura;FAS ;80;Kg;jan;set;;8;R$ 35,00;280;;;;;;;;;;;;;
 30/09/2016;Madeira;RDS do Amapa;Jatuarana;Isaias Pereira Gima;1;Zaias;;Farinha;Beneficiado;Não;1500;Kg;jan;set;;25;R$ 150,00;3750;não;629 901;961 005 052-15;S;S;S;N;S;S;dinheiro;2014;AFEAM;ok
 30/09/2016;Madeira;RDS do Amapa;Jatuarana;Isaias Pereira Gima;1;Zaias;;Castanha;In natura;FAS ;100;Kg;jan;Abr;;10;R$ 35,00;350;;;;;;;;;;;;;
-30/09/2016;Madeira;RDS do Amapa;Jatuarana;Isaias Pereira Gima;1;Zaias;;Açai;In natura;Não;650;Kg;jan;mai;;40;R$ 35,00;1400;;;;;;;;;;;;;
+30/09/2016;Madeira;RDS do Amapa;Jatuarana;Isaias Pereira Gima;1;Zaias;;Acai;In natura;Não;650;Kg;jan;mai;;40;R$ 35,00;1400;;;;;;;;;;;;;
 28/09/2016;Madeira;RDS do Amapa;Santa Eva;Jandeilson de jesus Martins;1;Ilson;;Farinha;Beneficiado;Não;250;Kg;jan;set;;4;R$ 120,00;480;não;0947738 1;677 504 942-00;S;S;N;N;N;N;não;não;não;ok
 28/09/2016;Madeira;RDS do Amapa;Santa Eva;Jandeilson de jesus Martins;1;Ilson;;Castanha;In natura;FAS ;700;Kg;jan;mai;;70;R$ 20,00;1400;;;;;;;;;;;;;
 24/09/2016;Madeira;RDS do Amapa;Jatuarana;João Bosco Pereira de Souza;1;João;;Farinha;Beneficiado;Não;4000;Kg;jan;set;;68;R$ 150,00;10200;97991969667;1247042 -2;729 996 672 -72;S;S;S;N;S;N;não;nã;não;ok
 24/09/2016;Madeira;RDS do Amapa;Jatuarana;João Bosco Pereira de Souza;1;João;;Castanha;In natura;FAS ;620;Kg;jan;abr;;60;R$ 35,00;2100;;;;;;;;;;;;;
-24/09/2016;Madeira;RDS do Amapa;Jatuarana;João Bosco Pereira de Souza;1;João;;Açai;In natura;Não;104;Kg;jan;mai;;8;R$ 30,00;240;;;;;;;;;;;;;
+24/09/2016;Madeira;RDS do Amapa;Jatuarana;João Bosco Pereira de Souza;1;João;;Acai;In natura;Não;104;Kg;jan;mai;;8;R$ 30,00;240;;;;;;;;;;;;;
 28/09/2016;Madeira;RDS do Amapa;Santa Eva;Geraldo João da mata Lemos;1;João Cabeça;;Farinha;Beneficiado;Não;200;Kg;jan;set;;2;R$ 150,00;600;não;2539263-8;102 952 242-15;S;S;N;N;N;N;não;não;não;ok
 30/09/2016;Madeira;RDS do Amapa;Jatuarana;Leandro Dos Santos Gima;1;Leandro;;Farinha;Beneficiado;Não;1800;Kg;jan;set;;34;R$ 150,00;4500;97991969087;2116565-3;009 055 802-22;N;N;N;N;N;N;não;não;não;ok
 27/09/2016;Madeira;RDS do Amapa;Jatuarana;Lizonei da Costa de Souza;1;Pretinho;;Farinha;Beneficiado;Não;1500;Kg;jan;set;;26;R$ 150,00;3900;não;2496139-6;007 821 132 -81;S;S;N;N;S;N;não;não;não;ok
 27/09/2016;Madeira;RDS do Amapa;Jatuarana;Lizonei da Costa de Souza;1;Pretinho;;Castanha;In natura;FAS ;100;Kg;jan;mai;;10;R$ 35,00;350;;;;;;;;;;;;;
-27/09/2016;Madeira;RDS do Amapa;Jatuarana;Lizonei da Costa de Souza;1;Pretinho;;Açai;In natura;Não;650;Kg;jan;mai;;50;R$ 20,00;1000;;;;;;;;;;;;;
+27/09/2016;Madeira;RDS do Amapa;Jatuarana;Lizonei da Costa de Souza;1;Pretinho;;Acai;In natura;Não;650;Kg;jan;mai;;50;R$ 20,00;1000;;;;;;;;;;;;;
 27/09/2016;Madeira;RDS do Amapa;Jatuarana;Maria de Lurde Pereira de Souza;1;Lurde;;Farinha;Beneficiado;Não;750;Kg;jan;set;;10;R$ 150,00;1500;não;1072303-0;660 266 606-91;S;S;N;N;S;N;não;não;não;ok
 27/09/2016;Madeira;RDS do Amapa;Jatuarana;Maria de Lurde Pereira de Souza;1;Lurde;;Castanha;In natura;FAS ;40;Kg;jan;mai;;4;R$ 35,00;140;;;;;;;;;;;;;
-27/09/2016;Madeira;RDS do Amapa;Jatuarana;Maria de Lurde Pereira de Souza;1;Lurde;;Açai;In natura;Não;650;Kg;jan;mai;;50;R$ 20,00;1000;;;;;;;;;;;;;
+27/09/2016;Madeira;RDS do Amapa;Jatuarana;Maria de Lurde Pereira de Souza;1;Lurde;;Acai;In natura;Não;650;Kg;jan;mai;;50;R$ 20,00;1000;;;;;;;;;;;;;
 28/09/2016;Madeira;RDS do Amapa;Santa Eva;Maely rodrigues de Jesus;1;Maely;;Farinha;Beneficiado;Não;250;Kg;jan;set;;0;R$ 0,00;0;97 991 951534;2867544-4;024 281 262 -70;S;S;N;N;S;S;Mandioca;2014;AFEAM;ok
 27/09/2016;Madeira;RDS do Amapa;Jatuarana;Manuel Guimarães dos Santo;1;Branco;;Farinha;Beneficiado;Não;1500;Kg;jan;set;;26;R$ 150,00;3900;não;757008;193 515 852-04;S;S;S;N;N;S;Dinheiro;2013;BMG;ok
-27/09/2016;Madeira;RDS do Amapa;Jatuarana;Manuel Guimarães dos Santo;1;Branco;;Açai;In natura;Não;650;Kg;jan;mai;;50;R$ 20,00;1000;;;;;;;;;;;;;
+27/09/2016;Madeira;RDS do Amapa;Jatuarana;Manuel Guimarães dos Santo;1;Branco;;Acai;In natura;Não;650;Kg;jan;mai;;50;R$ 20,00;1000;;;;;;;;;;;;;
 24/09/2016;Madeira;RDS do Amapa;Jatuarana;Marcio Leno Souza daCosta;1;Leno;;Farinha;Beneficiado;Não;2500;Kg;jan;set;;45;R$ 150,00;6750;97991468189;2116703;901259242-91;S;S;S;N;S;N;não;não;não;ok
 24/09/2016;Madeira;RDS do Amapa;Jatuarana;Maria Benedita Pereira;1;Preta;;Castanha;In natura;FAS ;300;Kg;jan;abr;;28;R$ 35,00;1050;não;2028863-8;811 076 412-68;S;S;S;N;S;N;Não;Não;Não;ok
 24/09/2016;Madeira;RDS do Amapa;Jatuarana;Maria Benedita Pereira;1;Preta;;Farinha;Beneficiado;Não;5000;Kg;jan;set;;96;R$ 150,00;14400;;;;;;;;;;;;;
-24/09/2016;Madeira;RDS do Amapa;Jatuarana;Maria Benedita Pereira;1;Preta;;Açai;In natura;Não;390;Kg;jan;mai;;28;R$ 35,00;980;;;;;;;;;;;;;
+24/09/2016;Madeira;RDS do Amapa;Jatuarana;Maria Benedita Pereira;1;Preta;;Acai;In natura;Não;390;Kg;jan;mai;;28;R$ 35,00;980;;;;;;;;;;;;;
 27/09/2016;Madeira;RDS do Amapa;Jatuarana;Maria de Paula Ferreira;1;Maria;;Farinha;Beneficiado;Não;1000;Kg;jan;set;;16;R$ 150,00;2400;não;2226267-9;978 112 972-72;S;S;N;N;S;N;não;não;não;ok
 30/09/2016;Madeira;RDS do Amapa;Jatuarana;Maria Jose Pereira da Costa;1;Zeca;;Farinha;Beneficiado;Não;750;Kg;jan;set;;11;R$ 150,00;1650;não;1979559-9;003 618 322-90;S;S;N;N;S;N;não;não;não;ok
 30/09/2016;Madeira;RDS do Amapa;Jatuarana;Maria Jose Pereira da Costa;1;Zeca;;Castanha;In natura;FAS ;500;Kg;jan;set;;47;R$ 35,00;1645;;;;;;;;;;;;;
-30/09/2016;Madeira;RDS do Amapa;Jatuarana;Maria Jose Pereira da Costa;1;Zeca;;Açai;In natura;Não;130;Kg;Jul;ago;;10;R$ 35,00;350;;;;;;;;;;;;;
+30/09/2016;Madeira;RDS do Amapa;Jatuarana;Maria Jose Pereira da Costa;1;Zeca;;Acai;In natura;Não;130;Kg;Jul;ago;;10;R$ 35,00;350;;;;;;;;;;;;;
 30/09/2016;Madeira;RDS do Amapa;Jatuarana;Maria Sheila dos Santos;1;Sheila;;Farinha;Beneficiado;FAS ;750;Kg;jan;set;;12;R$ 150,00;1800;não;2263605-6;008 588 222-45;S;S;N;N;N;N;Não;Não;Não;ok
 30/09/2016;Madeira;RDS do Amapa;Jatuarana;Maria Sheila dos Santos;1;Sheila;;Castanha;In natura;FAS ;100;Kg;jan;abr;;10;R$ 35,00;350;;;;;;;;;;;;;
 24/09/2016;Madeira;RDS do Amapa;Jatuarana;Nilva Pereira de Souza;1;Nilva;;Farinha;Beneficiado;Não;1750;Kg;jan;set;;30;R$ 150,00;2250;97991463160;1079988-5;628 312 402 -04;S;S;S;N;S;N;não;não;não;ok
-24/09/2016;Madeira;RDS do Amapa;Jatuarana;Nilva Pereira de Souza;1;Nilva;;Açai;In natura;Não;325;Kg;jan;mai;;20;R$ 20,00;400;;;;;;;;;;;;;
+24/09/2016;Madeira;RDS do Amapa;Jatuarana;Nilva Pereira de Souza;1;Nilva;;Acai;In natura;Não;325;Kg;jan;mai;;20;R$ 20,00;400;;;;;;;;;;;;;
 24/09/2016;Madeira;RDS do Amapa;Jatuarana;Nilva Pereira de Souza;1;Nilva;;Castanha;In natura;FAS ;250;Kg;jan;abr;;20;R$ 35,00;700;;;;;;;;;;;;;
 27/09/2016;Madeira;RDS do Amapa;Jatuarana;Onesimo Paula dos Santos;1;Onesimo;;Farinha;Beneficiado;Não;750;Kg;jan;set;;10;R$ 150,00;1500;não;2729197-9;029 310 672-02;S;S;N;N;S;N;não;não;não;ok
 27/09/2016;Madeira;RDS do Amapa;Jatuarana;Onesimo Paula dos Santos;1;Onesimo;;Castanha;In natura;FAS ;360;Kg;jan;mai;;34;R$ 35,00;1190;;;;;;;;;;;;;
-27/09/2016;Madeira;RDS do Amapa;Jatuarana;Onesimo Paula dos Santos;1;Onesimo;;Açai;In natura;Não;650;Kg;jan;mai;;50;R$ 20,00;1000;;;;;;;;;;;;;
+27/09/2016;Madeira;RDS do Amapa;Jatuarana;Onesimo Paula dos Santos;1;Onesimo;;Acai;In natura;Não;650;Kg;jan;mai;;50;R$ 20,00;1000;;;;;;;;;;;;;
 29/09/2016;Madeira;RDS do Amapa;Jatuarana;Paulo Jorje da Silva Rodrigues;1;Paulo;;Farinha;Beneficiado;Não;1000;Kg;jan;set;;14;R$ 150,00;2100;não;1247037-6;607 592 592-91;S;S;S;S;S;N;não;não;não;ok
-29/09/2016;Madeira;RDS do Amapa;Jatuarana;Paulo Jorje da Silva Rodrigues;1;Paulo;;Açai;In natura;Não;650;Kg;jan;mai;;50;R$ 20,00;1000;;;;;;;;;;;;;
+29/09/2016;Madeira;RDS do Amapa;Jatuarana;Paulo Jorje da Silva Rodrigues;1;Paulo;;Acai;In natura;Não;650;Kg;jan;mai;;50;R$ 20,00;1000;;;;;;;;;;;;;
 29/09/2016;Madeira;RDS do Amapa;Jatuarana;Raimundo dos Santos Gima;1;São;;Farinha;Beneficiado;Não;1500;Kg;jan;set;;25;R$ 150,00;3750;não;1244864-8;008 052 162-27;S;S;N;N;S;N;não;não;não;ok
 29/09/2016;Madeira;RDS do Amapa;Jatuarana;Raimundo dos Santos Gima;1;São;;Castanha;In natura;FAS ;600;Kg;jan;Abr;;60;R$ 35,00;2450;;;;;;;;;;;;;
 28/09/2016;Madeira;RDS do Amapa;Santa Eva;Raimundo Maycon Barbosa Lemos;1;Maycon;;Farinha;Beneficiado;Não;500;Kg;jan;set;;8;R$ 150,00;1200;não;00105968-9;974 832 062-68;S;S;N;N;N;N;não;não;não;ok
 28/09/2016;Madeira;RDS do Amapa;Santa Eva;Raimundo Maycon Barbosa Lemos;1;Maycon;;Castanha;In natura;Não;700;Kg;jan;mai;;70;R$ 30,00;2100;;;;;;;;;;;;;
-28/09/2016;Madeira;RDS do Amapa;Santa Eva;Raimundo Maycon Barbosa Lemos;1;Maycon;;Açai;In natura;Não;650;Kg;Fev;mai;;50;R$ 20,00;1000;;;;;;;;;;;;;
+28/09/2016;Madeira;RDS do Amapa;Santa Eva;Raimundo Maycon Barbosa Lemos;1;Maycon;;Acai;In natura;Não;650;Kg;Fev;mai;;50;R$ 20,00;1000;;;;;;;;;;;;;
 27/09/2016;Madeira;RDS do Amapa;Jatuarana;Raimundo dos Santos Ferreira;1;Neto;;Farinha;Beneficiado;Não;1000;Kg;jan;set;;16;R$ 150,00;2400;não;192 4264-6;811 594 472 -68;S;S;S;S;S;N;não;não;não;ok
-27/09/2016;Madeira;RDS do Amapa;Jatuarana;Raimundo dos Santos Ferreira;1;Neto;;Açai;In natura;Não;520;Kg;jan;mai;;40;R$ 20,00;400;;;;;;;;;;;;;
+27/09/2016;Madeira;RDS do Amapa;Jatuarana;Raimundo dos Santos Ferreira;1;Neto;;Acai;In natura;Não;520;Kg;jan;mai;;40;R$ 20,00;400;;;;;;;;;;;;;
 30/09/2016;Madeira;RDS do Amapa;Jatuarana;Raimundo Reis Pereira;1;Raimundão;;Farinha;Beneficiado;FAS ;9600;Kg;jan;set;;182;R$ 150,00;27300;97991762837;334302;027 856 962-55;S;S;N;N;N;N;Não;Não;Não;ok
-30/09/2016;Madeira;RDS do Amapa;Jatuarana;Raimundo Reis Pereira;1;Raimundão;;Açai;In natura;Não;195;Kg;jan;mai;;15;R$ 35,00;525;;;;;;;;;;;;;
+30/09/2016;Madeira;RDS do Amapa;Jatuarana;Raimundo Reis Pereira;1;Raimundão;;Acai;In natura;Não;195;Kg;jan;mai;;15;R$ 35,00;525;;;;;;;;;;;;;
 26/09/2016;Madeira;RDS do Amapa;Jatuarana;Raimundo Pereira Filho;1;Mundico;;Farinha;Beneficiado;Não;2500;Kg;jan;set;;40;R$ 150,00;6000;33852292;604 595;772 037 712 -53;S;S;S;N;S;N;não;não;não;ok
 26/09/2016;Madeira;RDS do Amapa;Jatuarana;Raimundo Pereira Filho;1;Mundico;;Castanha;In natura;FAS ;200;Kg;jan;abr;;20;R$ 35,00;700;;;;;;;;;;;;;
-26/09/2016;Madeira;RDS do Amapa;Jatuarana;Raimundo Pereira Filho;1;Mundico;;Açai;In natura;Não;104;Kg;jan;mai;;8;R$ 20,00;200;;;;;;;;;;;;;
+26/09/2016;Madeira;RDS do Amapa;Jatuarana;Raimundo Pereira Filho;1;Mundico;;Acai;In natura;Não;104;Kg;jan;mai;;8;R$ 20,00;200;;;;;;;;;;;;;
 30/09/2016;Madeira;RDS do Amapa;Jatuarana;Risoney da Silva Cunha;1;Riso;;Farinha;Beneficiado;FAS ;1500;Kg;jan;set;;26;R$ 150,00;3900;9791564191;2021993-8;970 913 832-49;S;S;S;N;S;N;Não;Não;Não;ok
 30/09/2016;Madeira;RDS do Amapa;Jatuarana;Risoney da Silva Cunha;1;Riso;;Castanha;In natura;FAS ;150;Kg;jan;mai;;15;R$ 35,00;525;;;;;;;;;;;;;
-30/09/2016;Madeira;RDS do Amapa;Jatuarana;Risoney da Silva Cunha;1;Riso;;Açai;In natura;FAS ;130;Kg;jan;ago;;10;R$ 35,00;350;;;;;;;;;;;;;
+30/09/2016;Madeira;RDS do Amapa;Jatuarana;Risoney da Silva Cunha;1;Riso;;Acai;In natura;FAS ;130;Kg;jan;ago;;10;R$ 35,00;350;;;;;;;;;;;;;
 30/09/2016;Madeira;RDS do Amapa;Jatuarana;Rosaldo dos Santos Gima;1;Guia;;Farinha;Beneficiado;FAS ;2500;Kg;jan;set;;45;R$ 150,00;6750;não;2156713-1;990795 422-53;S;S;N;N;S;N;Não;Não;Não;ok
 30/09/2016;Madeira;RDS do Amapa;Jatuarana;Rosaldo dos Santos Gima;1;Guia;;Castanha;In natura;FAS ;170;Kg;jan;abr;;17;R$ 35,00;595;;;;;;;;;;;;;
 30/09/2016;Madeira;RDS do Amapa;Jatuarana;R0sivaldo Leite de Souza;1;Zica;;Farinha;Beneficiado;FAS ;2000;Kg;jan;set;;36;R$ 150,00;5400;não;2285367-7;984 814 012-34;S;S;S;N;S;N;Não;Não;Não;ok
 30/09/2016;Madeira;RDS do Amapa;Jatuarana;R0sivaldo Leite de Souza;1;Zica;;Castanha;In natura;FAS ;700;Kg;jan;mai;;70;R$ 35,00;2450;;;;;;;;;;;;;
 06/10/2016;Madeira;RDS do Amapa;Jatuarana;Sebartão Pereira da Cocta;1;Tião;;Farinha;Beneficiado;Não;2500;Kg;jan;set;;40;R$ 150,00;6000;97991863224;1247021-0;528548682-34;S;S;S;S;S;N;não;não;não;ok
 29/09/2016;Madeira;RDS do Amapa;Jatuarana;Vagner PereiraMoreira;1;Vagner;;Farinha;Beneficiado;Não;750;Kg;jan;set;;12;R$ 150,00;1800;não;2765208-4;030206282-37;S;S;N;N;S;N;não;não;não;ok
-29/09/2016;Madeira;RDS do Amapa;Jatuarana;Vagner PereiraMoreira;1;Vagner;;Açai;In natura;Não;520;Kg;jan;mai;;40;R$ 35,00;1400;;;;;;;;;;;;;
+29/09/2016;Madeira;RDS do Amapa;Jatuarana;Vagner PereiraMoreira;1;Vagner;;Acai;In natura;Não;520;Kg;jan;mai;;40;R$ 35,00;1400;;;;;;;;;;;;;
 30/09/2016;Madeira;RDS do Amapa;Jatuarana;Valdeir Gima dos Santos;1;Badé;;Farinha;Beneficiado;Não;1250;Kg;jan;set;;24;R$ 150,00;3600;97991969087;2907611 -0;029 242 942-82 ;N;N;N;N;N;N;não;não;não;ok
 10/10/2016;Madeira;RDS do Amapa;Jatuarana;Valdemir Leite de Souza;1;Valdemir;;Castanha;In natura;FAS ;1040;Kg;jan;abr;;104;R$ 35,00;3640;97991881197;2116544-0;928 532 692-72;S;S;S;N;S;N;Não;Não;Não;ok
-10/10/2016;Madeira;RDS do Amapa;Jatuarana;Valdemir Leite de Souza;1;Valdemir;;Açai;In natura;Não;936;Kg;jan;mai;;72;R$ 35,00;2520;;;;;;;;;;;;;
+10/10/2016;Madeira;RDS do Amapa;Jatuarana;Valdemir Leite de Souza;1;Valdemir;;Acai;In natura;Não;936;Kg;jan;mai;;72;R$ 35,00;2520;;;;;;;;;;;;;
 10/10/2016;Madeira;RDS do Amapa;Jatuarana;Valdemir Leite de Souza;1;Valdemir;;Farinha;Beneficiado;Não;4600;Kg;;set;;90;R$ 150,00;13800;;;;;;;;;;;;;
 29/09/2016;Madeira;RDS do Amapa;Jatuarana;Wilson Pereira de Souza ;1;Paulinho;;Farinha;Beneficiado;Não;3500;Kg;jan;set;;60;R$ 150,00;10500;97 991855676;1247040-6;969 581 622 -34;S;S;N;N;S;N;não;nã;não;ok
 29/09/2016;Madeira;RDS do Amapa;Jatuarana;Wilson Pereira de Souza ;1;Paulinho;;Castanha;In natura;FAS ;150;Kg;jan;abr;;10;R$ 35,00;350;;;;;;;;;;;;;
-29/09/2016;Madeira;RDS do Amapa;Jatuarana;Wilson Pereira de Souza ;1;Paulinho;;Açai;In natura;Não;520;Kg;jan;mai;;30;R$ 20,00;600;;;;;;;;;;;;;
+29/09/2016;Madeira;RDS do Amapa;Jatuarana;Wilson Pereira de Souza ;1;Paulinho;;Acai;In natura;Não;520;Kg;jan;mai;;30;R$ 20,00;600;;;;;;;;;;;;;
 26/09/2016;Madeira;RDS do Amapa;Democracia;Afonso Fernandes Castro;1;Afonso;;Farinha;Beneficiado;FAS ;1000;Kg;jan;set;;18;R$ 150,00;2700;Não;032 963-2;;S;N;N;N;S;S;Banana;2014;IDAM;ok
-26/09/2016;Madeira;RDS do Amapa;Democracia;Afonso Fernandes Castro;1;Afonso;;Açai;In natura;FAS ;1950;Kg;jan;set;;150;R$ 17,00;2550;;;;;;;;;;;;;
+26/09/2016;Madeira;RDS do Amapa;Democracia;Afonso Fernandes Castro;1;Afonso;;Acai;In natura;FAS ;1950;Kg;jan;set;;150;R$ 17,00;2550;;;;;;;;;;;;;
 26/09/2016;Madeira;RDS do Amapa;Democracia;Alfredo Rodrigues Ferreira;1;Badica;;Farinha;Beneficiado;FAS ;1800;Kg;jan;set;;10;R$ 150,00;1500;;;;;;;;;;;;;
 26/09/2016;Madeira;RDS do Amapa;Democracia;Enivaldo Lopes Franco;1;Dino;;Farinha;Beneficiado;FAS ;500;Kg;jan;set;;10;R$ 150,00;1500;Não;Não;Não;S;N;N;N;N;N;Não;Não;Não;ok
 26/09/2016;Madeira;RDS do Amapa;Democracia;Evandro Ferreira Freitas;1;Velho;;Farinha;Beneficiado;FAS ;300;Kg;jan;set;;2;R$ 130,00;260;Não;032 963-2;412 371 682-00;S;N;N;N;N;N;Não;Não;Não;ok
 19/09/2016;Madeira;RDS do Amapa;Democracia;Francisco Carneiro guimães;1;Chico;;Farinha;Beneficiado;Não;300;Kg;jan;set;;0;R$ 0,00;0;9791832929;2285614-27;874 271 682 -91;S;N;S;N;S;N;Não;Não;Não;ok
 20/09/2016;Madeira;RDS do Amapa;Democracia;Hidelbrando Fernandes de Freitas ;1;Blando;;Farinha;Beneficiado;Não;500;Kg;jan;set;;5;R$ 150,00;750;Não;0947830-2;213407302-00;S;N;S;N;S;S;Banana;2010;IDAM;SIM
 26/09/2016;Madeira;RDS do Amapa;Democracia;Luiz Pereira dos Santos lemos;1;Lucas;;Farinha;Beneficiado;Não;450;Kg;jan;set;;4;R$ 150,00;600;Não;617249;835 421 912-72;S;N;N;N;N;N;Não;Não;Mão;ok
-26/09/2016;Madeira;RDS do Amapa;Democracia;Luiz Pereira dos Santos lemos;1;Lucas;;Açai;In natura;Não;1430;Kg;jan;jun;;110;R$ 17,00;1870;;;;;;;;;;;;;
+26/09/2016;Madeira;RDS do Amapa;Democracia;Luiz Pereira dos Santos lemos;1;Lucas;;Acai;In natura;Não;1430;Kg;jan;jun;;110;R$ 17,00;1870;;;;;;;;;;;;;
 26/09/2016;Madeira;RDS do Amapa;Democracia;Mario Correa ;1;Mrio;;Farinha;Beneficiado;FAS ;1000;Kg;jan;set;;20;R$ 150,00;3000;Não;0314627-2;731 463 861-00;S;N;N;N;N;N;Não;Não;Não;ok
-26/09/2016;Madeira;RDS do Amapa;Democracia;Mario Correa ;1;Mrio;;Açai;In natura;Não;1300;Kg;jan;jun;;100;R$ 17,00;1700;;;;;;;;;;;;;
+26/09/2016;Madeira;RDS do Amapa;Democracia;Mario Correa ;1;Mrio;;Acai;In natura;Não;1300;Kg;jan;jun;;100;R$ 17,00;1700;;;;;;;;;;;;;
 26/09/2016;Madeira;RDS do Amapa;Democracia;Marivaldo Freitas Guimarães;1;Marico;;Farinha;Beneficiado;FAS ;600;Kg;jan;set;;5;R$ 150,00;750;Não ;Não;Não;S;N;S;S;S;S;Banana;2014;IDAM;Regular
 26/09/2016;Madeira;RDS do Amapa;Democracia;Marivaldo Freitas Guimarães;1;Marico;;Castanha;In natura;Não;800;Kg;jan;abr;;80;R$ 30,00;2400;;;;;;;;;;;;;
-26/09/2016;Madeira;RDS do Amapa;Democracia;Marivaldo Freitas Guimarães;1;Marico;;Açai;In natura;Não;390;Kg;jan;jun;;0;R$ 0,00;0;;;;;;;;;;;;;
+26/09/2016;Madeira;RDS do Amapa;Democracia;Marivaldo Freitas Guimarães;1;Marico;;Acai;In natura;Não;390;Kg;jan;jun;;0;R$ 0,00;0;;;;;;;;;;;;;
 19/09/2016;Madeira;RDS do Amapa;Democracia;Rone da Silva Guimarães ;1;Rone;;Farinha;Beneficiado;Não;250;Kg;jan;set;;1;R$ 150,00;150;9791429780;1779928-7;738 782352-91;S;S;N;N;S;S;Banana;2010;IDAM;SIM
 26/09/2016;Madeira;RDS do Amapa;Democracia;Thomé pereira da Silva;1;kinha;;Cacau;In natura;FAS ;313;Kg;jan;set;;313;R$ 7,00;2191;Não;617249;835 421 912-72;S;N;N;N;N;N;Não;Não;Mão;ok
 ;Madeira;RDS do Madeira;Uruá Brazão;Egberto Soares Paz;1;Gidó;;Castanha;In natura;;450;Kg;Jan;Mar;;44;R$ 42,00;1848;;;;;;;;;;;;;
@@ -693,23 +693,23 @@ Data;Madeira;RDS do Amapa;Terra Preta;Heitor Soares Cavalcante;1;Curara;;Castanh
 ;Madeira;RDS do Madeira;Bom Jesus;Marcos Antonio da Costa Silva;1;Marquinho;;Castanha;In natura;;4030;Kg;Jan;Abr;;400;R$ 40,00;16000;;;;;;;;;;;;;
 27/09/2016;Madeira;RDS do Madeira;Bom Jesus;João da Silva Correa;1;Chambeta;;Castanha;In natura;FAS ;200;Kg;Jan;Abr;;20;R$ 43,00;860;97-99183-0070;1717157-1;735.495.842-53;N;S;S;S;S;S;Cacau/Açaí/Banana;2009;CEPLAC;Regular
 ;Madeira;RDS do Madeira;Bom Jesus;João da Silva Correa;1;Chambeta;;Farinha;Beneficiado;FAS ;1000;Kg;Jan;Set;;19;R$ 180,00;3420;;;;;;;;;;;;;
-;Madeira;RDS do Madeira;Bom Jesus;João da Silva Correa;1;Chambeta;;Açai;In natura;CEPLAC/HAND´S;900;Kg;Fev;Mai;;15;R$ 60,00;900;;;;;;;;;;;;;
+;Madeira;RDS do Madeira;Bom Jesus;João da Silva Correa;1;Chambeta;;Acai;In natura;CEPLAC/HAND´S;900;Kg;Fev;Mai;;15;R$ 60,00;900;;;;;;;;;;;;;
 ;Madeira;RDS do Madeira;Bom Jesus;João da Silva Correa;1;Chambeta;;Oleos;Beneficiado;FAS ;20;Kg;Mar;jul;;20;R$ 27,00;540;;;;;;;;;;;;;
 27/09/2016;Madeira;RDS do Madeira;Bom Jesus;Alcinei da Costa Silva ;1;Nei;;Castanha;In natura;FAS ;350;Kg;Nov;Abr;;30;R$ 43,00;1290;97-991619626;2183799-6;000,717,692-93;N;S;S;S;N;S;;;;
 ;Madeira;RDS do Madeira;Bom Jesus;Alcinei da Costa Silva ;1;Nei;;Farinha;Beneficiado;Não;1500;Kg;Jan;Dez;;0;R$ 0,00;0;;;;;;;;;;;;;
-;Madeira;RDS do Madeira;Bom Jesus;Alcinei da Costa Silva ;1;Nei;;Açai;In natura;Não;900;Kg;Fev;Mai;;10;R$ 60,00;600;;;;;;;;;;;;;
+;Madeira;RDS do Madeira;Bom Jesus;Alcinei da Costa Silva ;1;Nei;;Acai;In natura;Não;900;Kg;Fev;Mai;;10;R$ 60,00;600;;;;;;;;;;;;;
 ;Madeira;RDS do Madeira;Bom Jesus;Alcinei da Costa Silva ;1;Nei;;Oleos;Beneficiado;Não;20;Kg;Mar;Jul;;20;R$ 27,00;540;;;;;;;;;;;;;
 ;Madeira;RDS do Madeira;Bom Jesus;Lucivani Correa da Silva;1;Civane;;Farinha;Beneficiado;Não;300;Kg;Jan;Dez;;0;R$ 0,00;0;;2771845-0;012 075 512-28;N;S;S;N;N;N;;;;
 ;Madeira;RDS do Madeira;Bom Jesus;Lucivani Correa da Silva;1;Civane;;Castanha;In natura;Não;100;Kg;Nov;Abr;;10;R$ 30,00;300;;;;;;;;;;;;;
-;Madeira;RDS do Madeira;Bom Jesus;Lucivani Correa da Silva;1;Civane;;Açai;In natura;FAS ;360;Kg;Ago;out;;0;R$ 0,00;0;;;;;;;;;;;;;
+;Madeira;RDS do Madeira;Bom Jesus;Lucivani Correa da Silva;1;Civane;;Acai;In natura;FAS ;360;Kg;Ago;out;;0;R$ 0,00;0;;;;;;;;;;;;;
 ;Madeira;RDS do Madeira;Cruzeiro;Maria Gama de Melo;1;Maria Gama;;Farinha;Beneficiado;FAS ;150;Kg;Jan;Set;;0;R$ 0,00;0;;;;;;;;;;;;;
 ;Madeira;RDS do Madeira;Cruzeiro;Oziel Lima de Carvalho;1;Massarico;;Farinha;Beneficiado;FAS ;200;Kg;Jan;Set;;0;R$ 0,00;0;;;;;;;;;;;;;
 ;Madeira;RDS do Madeira;Cruzeiro;Valdeir Lisboa Alho;1;Valdeir;;Farinha;Beneficiado;FAS ;500;Kg;Jan;Set;;0;R$ 0,00;0;;;;;;;;;;;;;
 ;Madeira;RDS do Madeira;Cruzeiro;Antonio da Gama Carril;1;Velreira;;Farinha;Beneficiado;FAS ;500;Kg;Jan;out;;5;R$ 250,00;1250;;;;;;;;;;;;;
 ;Madeira;RDS do Madeira;Cruzeiro;Antonio da Gama Carril;1;Velreira;;Castanha;In natura;FAS ;700;Kg;Jan;mar;;70;R$ 40,00;2800;;;;;;;;;;;;;
-;Madeira;RDS do Madeira;Cruzeiro;Antonio da Gama Carril;1;Velreira;;Açai;In natura;FAS ;6000;Kg;Mar;Set;;100;R$ 100,00;10000;;;;;;;;;;;;;
+;Madeira;RDS do Madeira;Cruzeiro;Antonio da Gama Carril;1;Velreira;;Acai;In natura;FAS ;6000;Kg;Mar;Set;;100;R$ 100,00;10000;;;;;;;;;;;;;
 ;Madeira;RDS do Madeira;Cruzeiro;Indemburgo Soares Campos;1;Edemburgo;;Farinha;Beneficiado;FAS ;200;Kg;Jan;Set;;0;R$ 0,00;0;;;;;;;;;;;;;
-;Madeira;RDS do Madeira;Cruzeiro;Aglailson Alburquerque Carril;1;Ison;;Açai;In natura;FAS ;3600;Kg;Jan;Jun;;60;R$ 100,00;6000;;;;;;;;;;;;;
+;Madeira;RDS do Madeira;Cruzeiro;Aglailson Alburquerque Carril;1;Ison;;Acai;In natura;FAS ;3600;Kg;Jan;Jun;;60;R$ 100,00;6000;;;;;;;;;;;;;
 ;Madeira;RDS do Madeira;Cruzeiro;Aglailson Alburquerque Carril;1;Ison;;Castanha;In natura;FAS ;400;Kg;Jan;Set;;40;R$ 40,00;1600;;;;;;;;;;;;;
 ;Madeira;RDS do Madeira;Nova Estrela;Reginaldo Nascimento dos Santos;1;Cori;;Farinha;Beneficiado;FAS ;300;Kg;jan;Set;;0;R$ 0,00;0;;;;;;;;;;;;;
 ;Madeira;RDS do Madeira;Nova Estrela;Rosivaldo do Nascimento dos Santos;1;Cheroca;;Farinha;Beneficiado;FAS ;450;Kg;Jan;Set;;0;R$ 0,00;0;;;;;;;;;;;;;
@@ -739,7 +739,7 @@ Data;Madeira;RDS do Amapa;Terra Preta;Heitor Soares Cavalcante;1;Curara;;Castanh
 ;Madeira;RDS do Madeira;São Pedro;Carlos Alberto Lemos Pinto;1;Carlos;;Farinha;Beneficiado;FAS ;500;Kg;Jan;Set;;5;R$ 150,00;750;;;;;;;;;;;;;
 12/12/2016;Madeira;RDS do Madeira;S.Sebastiao do Lago Preto;Anderson Costa Martins;1;Chubica;;Farinha;Beneficiado;FAS ;300;Kg;Jan;Set;;4;R$ 200,00;800;-97;99198-7599;;N;S;N;N;N;N;;;;
 ;Madeira;RDS do Madeira;S.Sebastiao do Lago Preto;Anderson Costa Martins;1;Chubica;;Oleos;Beneficiado;;100;Kg;Jan;Set;;98;R$ 30,00;2940;;;;;;;;;;;;;
-;Madeira;RDS do Madeira;S.Sebastiao do Lago Preto;Anderson Costa Martins;1;Chubica;;Açai;In natura;;600;Kg;Jan;Set;;5;R$ 40,00;200;;;;;;;;;;;;;
+;Madeira;RDS do Madeira;S.Sebastiao do Lago Preto;Anderson Costa Martins;1;Chubica;;Acai;In natura;;600;Kg;Jan;Set;;5;R$ 40,00;200;;;;;;;;;;;;;
 16/12/2016;Madeira;RDS do Madeira;S.Sebastiao do Lago Preto;Digson Pantoja Costa;1;Bolina;;Farinha;Beneficiado;FAS ;500;Kg;Jan;Set;;5;R$ 180,00;900;;;;N;N;N;S;N;N;;;;
 17/11/2016;Madeira;RDS do Madeira;S.Sebastiao do Lago Preto;Carlos Costa Cabral;1;Carlão;;Farinha;Beneficiado;FAS ;500;Kg;Jan;Set;;8;R$ 180,00;1440;;0663698-5;"605.232;982-34";N;S;N;S;N;N;;;;
 ;Madeira;RDS do Madeira;S.Sebastiao do Lago Preto;Carlos Costa Cabral;1;Carlão;;Castanha;In natura;;2000;Kg;Jan;Abr;;200;R$ 25,00;5000;;;;;;;;;;;;;
@@ -909,20 +909,20 @@ Data;Madeira;RDS do Amapa;Terra Preta;Heitor Soares Cavalcante;1;Curara;;Castanh
 13/04/2016;Jurua Jutai;RDS Uacari;Vila Ramalho;;1;;Farinha e Açaí;Farinha;Beneficiado;;14400;Kg;;;;;;28800;;;;;;;;;;;;;
 17/03/2016;Jurua Jutai;RDS Uacari;São José;;1;;Farinha;Farinha;Beneficiado;;6400;Kg;;;;;;12800;;;;;;;;;;;;;
 13/03/2016;Jurua Jutai;RDS Uacari;Xibauá;;1;;Farinha;Farinha;Beneficiado;;7200;Kg;;;;;;14400;;;;;;;;;;;;;
-09/02/2016;Jurua Jutai;RDS Uacari;Maracajá;;1;;Açaí;Açai;Beneficiado;;242;Kg;;;;;;;;;;;;;;;;;;;
-09/02/2016;Jurua Jutai;RDS Uacari;Ouro Preto;;1;;Açaí;Açai;Beneficiado;;2493;Kg;;;;;;;;;;;;;;;;;;;
-09/02/2016;Jurua Jutai;RDS Uacari;Canta Galo;;1;;Açaí;Açai;Beneficiado;;66;Kg;;;;;;;;;;;;;;;;;;;
-09/02/2016;Jurua Jutai;RDS Uacari;Santo Antônio do Brito;;1;;Açaí;Açai;Beneficiado;;1884;Kg;;;;;;;;;;;;;;;;;;;
-09/02/2016;Jurua Jutai;RDS Uacari;Vila Ramalho;;1;;Açaí;Açai;Beneficiado;;242;Kg;;;;;;;;;;;;;;;;;;;
-09/02/2016;Jurua Jutai;RDS Uacari;Remanso;;1;;Açaí;Açai;Beneficiado;;423;Kg;;;;;;;;;;;;;;;;;;;
-09/02/2016;Jurua Jutai;RDS Uacari;Maracajá;;1;;Açaí;Açai;Beneficiado;;593;Kg;;;;;;;;;;;;;;;;;;;
-09/02/2016;Jurua Jutai;RDS Uacari;Morro Alto;;1;;Açaí;Açai;Beneficiado;;97;Kg;;;;;;;;;;;;;;;;;;;
-09/02/2016;Jurua Jutai;RDS Uacari;Ouro Preto;;1;;Açaí;Açai;Beneficiado;;9245;Kg;;;;;;;;;;;;;;;;;;;
-09/02/2016;Jurua Jutai;RDS Uacari;Santo Antônio do Brito;;1;;Açaí;Açai;Beneficiado;;6466;Kg;;;;;;;;;;;;;;;;;;;
-09/02/2016;Jurua Jutai;RDS Uacari;Vila Ramalho;;1;;Açaí;Açai;Beneficiado;;5120;Kg;;;;;;;;;;;;;;;;;;;
-09/02/2016;Jurua Jutai;RDS Uacari;Canta Galo;;1;;Açaí;Açai;Beneficiado;;581;Kg;;;;;;;;;;;;;;;;;;;
-09/02/2016;Jurua Jutai;RDS Uacari;Barreira do Idó;;1;;Açaí;Açai;Beneficiado;;919;Kg;;;;;;;;;;;;;;;;;;;
-09/02/2016;Jurua Jutai;RDS Uacari;Remanso;;1;;Açaí;Açai;Beneficiado;;19422;Kg;;;;;;;;;;;;;;;;;;;
+09/02/2016;Jurua Jutai;RDS Uacari;Maracajá;;1;;Açaí;Acai;Beneficiado;;242;Kg;;;;;;;;;;;;;;;;;;;
+09/02/2016;Jurua Jutai;RDS Uacari;Ouro Preto;;1;;Açaí;Acai;Beneficiado;;2493;Kg;;;;;;;;;;;;;;;;;;;
+09/02/2016;Jurua Jutai;RDS Uacari;Canta Galo;;1;;Açaí;Acai;Beneficiado;;66;Kg;;;;;;;;;;;;;;;;;;;
+09/02/2016;Jurua Jutai;RDS Uacari;Santo Antônio do Brito;;1;;Açaí;Acai;Beneficiado;;1884;Kg;;;;;;;;;;;;;;;;;;;
+09/02/2016;Jurua Jutai;RDS Uacari;Vila Ramalho;;1;;Açaí;Acai;Beneficiado;;242;Kg;;;;;;;;;;;;;;;;;;;
+09/02/2016;Jurua Jutai;RDS Uacari;Remanso;;1;;Açaí;Acai;Beneficiado;;423;Kg;;;;;;;;;;;;;;;;;;;
+09/02/2016;Jurua Jutai;RDS Uacari;Maracajá;;1;;Açaí;Acai;Beneficiado;;593;Kg;;;;;;;;;;;;;;;;;;;
+09/02/2016;Jurua Jutai;RDS Uacari;Morro Alto;;1;;Açaí;Acai;Beneficiado;;97;Kg;;;;;;;;;;;;;;;;;;;
+09/02/2016;Jurua Jutai;RDS Uacari;Ouro Preto;;1;;Açaí;Acai;Beneficiado;;9245;Kg;;;;;;;;;;;;;;;;;;;
+09/02/2016;Jurua Jutai;RDS Uacari;Santo Antônio do Brito;;1;;Açaí;Acai;Beneficiado;;6466;Kg;;;;;;;;;;;;;;;;;;;
+09/02/2016;Jurua Jutai;RDS Uacari;Vila Ramalho;;1;;Açaí;Acai;Beneficiado;;5120;Kg;;;;;;;;;;;;;;;;;;;
+09/02/2016;Jurua Jutai;RDS Uacari;Canta Galo;;1;;Açaí;Acai;Beneficiado;;581;Kg;;;;;;;;;;;;;;;;;;;
+09/02/2016;Jurua Jutai;RDS Uacari;Barreira do Idó;;1;;Açaí;Acai;Beneficiado;;919;Kg;;;;;;;;;;;;;;;;;;;
+09/02/2016;Jurua Jutai;RDS Uacari;Remanso;;1;;Açaí;Acai;Beneficiado;;19422;Kg;;;;;;;;;;;;;;;;;;;
 06/06/2016;Jurua Jutai;RDS Uacari;Xibauzinho;;12;;Manejo de lagos;Pirarucu;In natura;;13783;Kg;;;;;;60940;;;;;;;;;;;;;
 06/06/2016;Jurua Jutai;RDS Uacari;Toari;;7;;Manejo de lagos;Pirarucu;In natura;;3338;Kg;;;;;;10477;;;;;;;;;;;;;
 06/06/2016;Jurua Jutai;RDS Uacari;Caroçal;;5;;Manejo de lagos;Pirarucu;In natura;;4496;Kg;;;;;;15834;;;;;;;;;;;;;
@@ -930,7 +930,7 @@ Data;Madeira;RDS do Amapa;Terra Preta;Heitor Soares Cavalcante;1;Curara;;Castanh
 21/09/2016;Jurua Jutai;RDS Cujubim;Paraiso;Luiz Teixeira de Oliveira Filho;;Nenego;;Pirarucu;In natura;;872,8;Kg;;;;872,8;R$ 12,00;10474;;;;S;S;N;N;S;N;;;FAZ/OPAN/SEMA;
 22/09/2016;Jurua Jutai;RDS Cujubim;Vila Cujubim;Edvar Bezerra de Moura;;Vovô;;Pirarucu;In natura;;1599,4;Kg;;;;1.599,40;R$ 12,00;19193;;;;S;S;N;N;S;N;;;FAZ/OPAN/SEMA;
 2016;Solimoes;RESEX Catua-Ipixuna;São Sebastião do água branca;Decivaldo Mafra de Brito;1;;;Farinha;Beneficiado;;1200;Kg;Jan-Fev-Mar;;;1180;R$ 2,33;2749;;;;;;;;;;;;;
-2016;Solimoes;RESEX Catua-Ipixuna;São Sebastião do água branca;Decivaldo Mafra de Brito;1;;;Açai;Beneficiado;;120;Kg;Jan-Fev-Mar;;;50;R$ 4,00;200;;;;;;;;;;;;;
+2016;Solimoes;RESEX Catua-Ipixuna;São Sebastião do água branca;Decivaldo Mafra de Brito;1;;;Acai;Beneficiado;;120;Kg;Jan-Fev-Mar;;;50;R$ 4,00;200;;;;;;;;;;;;;
 2016;Solimoes;RESEX Catua-Ipixuna;São Sebastião do água branca;Decivaldo Mafra de Brito;1;;;Castanha;In natura;;9;Caixa;Jan-Fev-Mar;;;9;R$ 140,00;1260;;;;;;;;;;;;;
 2016;Solimoes;RESEX Catua-Ipixuna;Divino Espirito Santo;José Augusto Barreto Feitosa;1;;;Farinha;Beneficiado;;825;Kg;Jan-Fev-Mar;;;825;R$ 2,18;1799;;;;;;;;;;;;;
 2016;Solimoes;RESEX Catua-Ipixuna;Divino Espirito Santo;José Augusto Barreto Feitosa;1;;;Castanha;In natura;;10;Caixa;Jan-Fev-Mar;;;10;R$ 120,00;1200;;;;;;;;;;;;;
@@ -941,7 +941,7 @@ Data;Madeira;RDS do Amapa;Terra Preta;Heitor Soares Cavalcante;1;Curara;;Castanh
 2016;Solimoes;RESEX Catua-Ipixuna;Nsa Sra de Nazaré;Sebastiana Laurinda de Morães;1;;;Farinha;Beneficiado;;300;Kg;Jan-Fev-Mar;;;300;R$ 3,00;900;;;;;;;;;;;;;
 2016;Solimoes;RESEX Catua-Ipixuna;Nsa Sra de Nazaré;Vinicio Alves de Olivera;1;;;Farinha;Beneficiado;;600;Kg;Jan-Mar;;;480;R$ 3,00;1440;;;;;;;;;;;;;
 2016;Solimoes;RESEX Catua-Ipixuna;Nsa Sra de Nazaré;Suzane Araújo e Silva;1;;;Farinha;Beneficiado;;540;Kg;Jan-Mar;;;480;R$ 2,50;1200;;;;;;;;;;;;;
-2016;Solimoes;RESEX Catua-Ipixuna;Nsa Sra de Nazaré;Suzane Araújo e Silva;1;;;Açai;Beneficiado;;60;Kg;Mar;;;;;;;;;;;;;;;;;;
+2016;Solimoes;RESEX Catua-Ipixuna;Nsa Sra de Nazaré;Suzane Araújo e Silva;1;;;Acai;Beneficiado;;60;Kg;Mar;;;;;;;;;;;;;;;;;;
 2016;Solimoes;RESEX Catua-Ipixuna;São João do Catuá;Elci Macedo Lopes;1;;;Farinha;Beneficiado;;2000;Kg;Jan-Abr;;;1800;R$ 3,00;5400;;;;;;;;;;;;;
 2016;Solimoes;RESEX Catua-Ipixuna;São João do Catuá;Elci Macedo Lopes;1;;;Castanha;In natura;;22;Caixa;Dez - Abr;;;22;R$ 90,00;1980;;;;;;;;;;;;;
 2016;Solimoes;RESEX Catua-Ipixuna;São João do Catuá;Erivane Macedo Lopes;1;;;Farinha;Beneficiado;;200;Kg;Jan-Mai;;;;;;;;;;;;;;;;;;
@@ -1074,7 +1074,7 @@ Data;Madeira;RDS do Amapa;Terra Preta;Heitor Soares Cavalcante;1;Curara;;Castanh
 2016;Solimoes;RESEX Catua-Ipixuna;Bela Conquista;Ana Célia Marinho de Medeiros;1;;;Castanha;In natura;;2;Caixa;Dez-Mar;;;2;R$ 100,00;200;;;;;;;;;;;;;
 2016;Solimoes;RESEX Catua-Ipixuna;Bela Conquista;Francisco Cavalcante de Sena;1;;;Farinha;Beneficiado;;2500;Kg;Ano Todo;;;50;R$ 140,00;7000;;;;;;;;;;;;;
 2016;Solimoes;RESEX Catua-Ipixuna;Bela Conquista;Francisco Cavalcante de Sena;1;;;Castanha;In natura;;130;Caixa;Jan-Mar;;;130;R$ 60,00;7800;;;;;;;;;;;;;
-2016;Solimoes;RESEX Catua-Ipixuna;Bela Conquista;Francisco Cavalcante de Sena;1;;;Açai;Beneficiado;;300;Kg;Dez-Mai;;;300;R$ 4,00;1200;;;;;;;;;;;;;
+2016;Solimoes;RESEX Catua-Ipixuna;Bela Conquista;Francisco Cavalcante de Sena;1;;;Acai;Beneficiado;;300;Kg;Dez-Mai;;;300;R$ 4,00;1200;;;;;;;;;;;;;
 2016;Solimoes;RESEX Catua-Ipixuna;Bela Conquista;Joel Cavalcante Sena;1;;;Farinha;Beneficiado;;3500;Kg;Ano Todo;;;70;R$ 140,00;9800;;;;;;;;;;;;;
 2016;Solimoes;RESEX Catua-Ipixuna;Bela Conquista;Joel Cavalcante Sena;1;;;Castanha;In natura;;50;Caixa;Dez-Mar;;;50;R$ 60,00;3000;;;;;;;;;;;;;
 2016;Solimoes;RESEX Catua-Ipixuna;Bela Conquista;Maria Divina Vasconcelos;1;;;Farinha;Beneficiado;;455;Kg;Ano Todo;;;400;R$ 2,40;960;;;;;;;;;;;;;
@@ -1096,7 +1096,7 @@ Data;Madeira;RDS do Amapa;Terra Preta;Heitor Soares Cavalcante;1;Curara;;Castanh
 2016;Solimoes;RESEX Catua-Ipixuna;Nsa Sra de Nazaré;Laziano da Costa Vasconcelos;1;;;Farinha;Beneficiado;;3000;Kg;Jan-Mar;;;2800;R$ 2,50;7000;;;;;;;;;;;;;
 2016;Solimoes;RESEX Catua-Ipixuna;Divino Espirito Santo;Odneia Fernandes;1;;;Farinha;Beneficiado;;300;Kg;Mar;;;300;R$ 2,20;660;;;;;;;;;;;;;
 2016;Solimoes;RESEX Catua-Ipixuna;Divino Espirito Santo;Odneia Fernandes;1;;;Castanha;In natura;;5;Caixa;Fev;;;5;R$ 100,00;500;;;;;;;;;;;;;
-2016;Solimoes;RESEX Catua-Ipixuna;Divino Espirito Santo;Odneia Fernandes;1;;;Açai;In natura;;480;Kg;Mar;;;8;R$ 50,00;400;;;;;;;;;;;;;
+2016;Solimoes;RESEX Catua-Ipixuna;Divino Espirito Santo;Odneia Fernandes;1;;;Acai;In natura;;480;Kg;Mar;;;8;R$ 50,00;400;;;;;;;;;;;;;
 2016;Solimoes;RESEX Catua-Ipixuna;São Sebastião do água branca;Maria Lucia Santos de Paulo;1;;;Farinha;Beneficiado;;65;Kg;Jan-Mar;;;55;R$ 2,40;132;;;;;;;;;;;;;
 2016;Solimoes;RESEX Catua-Ipixuna;São Lazaro;Francisco Elisson Souza de Vasconcelos ;1;;;Farinha;Beneficiado;;8000;Kg;Jul;;;160;R$ 160,00;25600;;;;;;;;;;;;;
 2016;Solimoes;RESEX Catua-Ipixuna;São Lazaro;Francisco Elisson Souza de Vasconcelos ;1;;;Castanha;In natura;;20;Caixa;Jun;;;20;R$ 50,00;1000;;;;;;;;;;;;;
